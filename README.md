@@ -34,6 +34,30 @@ Recebe currículos em texto, padroniza cada um com um modelo de linguagem, gera 
 
 Você precisa de [Bun](https://bun.sh) 1.4.4 ou mais novo (o 1.2 cai ao fechar a conexão com o Postgres no fim dos testes; `bun upgrade` atualiza), [Docker](https://www.docker.com) (no Windows, o Docker Desktop) e uma chave da [OpenAI](https://platform.openai.com/api-keys).
 
+### Versões usadas
+
+O projeto foi feito e testado com as versões abaixo, no Windows 11. As das bibliotecas ficam travadas no `bun.lock`, então o `bun install` instala exatamente estas.
+
+| O quê               | Versão                                       |
+| ------------------- | -------------------------------------------- |
+| Bun                 | 1.4.4                                        |
+| Docker              | 28.3.2                                       |
+| Postgres            | 17.10 (imagem `pgvector/pgvector:pg17`)      |
+| pgvector            | 0.8.2                                        |
+| TypeScript          | 7.0.2                                        |
+| Elysia              | 1.4.32, com `@elysiajs/openapi` 1.4.17       |
+| AI SDK              | `ai` 7.0.181, com `@ai-sdk/openai` 4.0.122   |
+| Drizzle             | `drizzle-orm` 0.45.4, `drizzle-kit` 0.31.11  |
+| postgres.js         | 4.1.1                                        |
+| Zod                 | 4.6.7                                        |
+| date-fns            | 4.4.0                                        |
+| Faker               | 10.6.0                                       |
+| Prettier            | 3.10.1                                       |
+| Modelo de extração  | `gpt-6.2-sol` (troca com `EXTRACTION_MODEL`) |
+| Modelo de embedding | `text-embedding-3-large`, 2048 dimensões     |
+
+A imagem `pg17` acompanha a versão mais nova do Postgres 17 e do pgvector. Os números de cima são os que estavam nela.
+
 **1. Dependências**
 
 ```bash
