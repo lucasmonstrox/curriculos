@@ -1,0 +1,179 @@
+Recomendação: F. por emprego, peso pela duração, ficha "completa", corte 0.734. Verdade: 1 = mesma carreira, 0 = nada a ver.
+
+c01  vendas 55% + backend 45%  (2 exp., atual: Consultor Comercial)
+     c29  vendas 71% + marketing 29%                       verdade 0.47 (em parte)  nota 0.735
+
+c02  designer 56% + pm 44%  (2 exp., atual: Product Manager)
+     c15  pm 100%                                          verdade 0.72 (parecido)  nota 0.828
+     c23  designer 100%                                    verdade 0.78 (parecido)  nota 0.794
+     c25  designer 73% + frontend 27%                      verdade 0.64 (parecido)  nota 0.739
+
+c03  vendas 100%  (7 exp., atual: SDR)
+     c29  vendas 71% + marketing 29%                       verdade 0.86 (parecido)  nota 0.781
+
+c04  fullstack 100%  (5 exp., atual: Engenheiro de Software Fullstack)
+     c19  fullstack 100%                                   verdade 1.00 (parecido)  nota 0.895
+     c28  fullstack 100%                                   verdade 1.00 (parecido)  nota 0.864
+     c32  frontend 69% + backend 31%                       verdade 0.50 (parecido)  nota 0.791
+
+c05  cs 100%  (4 exp., atual: Gerente de Contas)
+     c10  cs 100%                                          verdade 1.00 (parecido)  nota 0.874
+
+c06  enfermagem 51% + analista dados 49%  (2 exp., atual: Analista de Dados)
+     c31  enfermagem 79% + pm 21%                          verdade 0.40 (em parte)  nota 0.787
+     c35  analista dados 100%                              verdade 0.49 (em parte)  nota 0.759
+
+c07  cientista dados 100%  (2 exp., atual: Cientista de Dados)
+     c11  cientista dados 100%                             verdade 1.00 (parecido)  nota 0.882
+     c36  cientista dados 85% + devops 15%                 verdade 0.85 (parecido)  nota 0.866
+     c09  cientista dados 79% + marketing 21%              verdade 0.79 (parecido)  nota 0.803
+
+c08  analista dados 57% + analista financeiro 43%  (7 exp., atual: Analista de Planejamento Financeiro)
+     c34  analista financeiro 73% + analista dados 27%     verdade 0.73 (parecido)  nota 0.850
+     c33  analista financeiro 64% + analista dados 36%     verdade 0.74 (parecido)  nota 0.837
+     c13  analista financeiro 100%                         verdade 0.71 (parecido)  nota 0.836
+
+c09  cientista dados 79% + marketing 21%  (3 exp., atual: Analista de Marketing Digital)
+     c07  cientista dados 100%                             verdade 0.79 (parecido)  nota 0.803
+     c36  cientista dados 85% + devops 15%                 verdade 0.68 (parecido)  nota 0.794
+     c11  cientista dados 100%                             verdade 0.79 (parecido)  nota 0.786
+
+c10  cs 100%  (4 exp., atual: Gerente de Contas)
+     c05  cs 100%                                          verdade 1.00 (parecido)  nota 0.874
+
+c11  cientista dados 100%  (3 exp., atual: Cientista de Dados)
+     c07  cientista dados 100%                             verdade 1.00 (parecido)  nota 0.882
+     c36  cientista dados 85% + devops 15%                 verdade 0.85 (parecido)  nota 0.858
+     c09  cientista dados 79% + marketing 21%              verdade 0.79 (parecido)  nota 0.786
+
+c12  devops 100%  (6 exp., atual: Engenheiro de Confiabilidade (SRE))
+     c18  devops 71% + eng dados 29%                       verdade 0.85 (parecido)  nota 0.829
+     c20  devops 58% + backend 42%                         verdade 0.79 (parecido)  nota 0.783
+     c21  devops 58% + vendas 42%                          verdade 0.58 (parecido)  nota 0.751
+
+c13  analista financeiro 100%  (5 exp., atual: Analista de Planejamento Financeiro)
+     c17  analista financeiro 100%                         verdade 1.00 (parecido)  nota 0.888
+     c33  analista financeiro 64% + analista dados 36%     verdade 0.82 (parecido)  nota 0.870
+     c34  analista financeiro 73% + analista dados 27%     verdade 0.87 (parecido)  nota 0.869
+
+c14  marketing 100%  (6 exp., atual: Analista de Performance)
+     c40  marketing 100%                                   verdade 1.00 (parecido)  nota 0.896
+     c29  vendas 71% + marketing 29%                       verdade 0.64 (parecido)  nota 0.778
+     c09  cientista dados 79% + marketing 21%              verdade 0.21 (em parte)  nota 0.741
+
+c15  pm 100%  (4 exp., atual: Product Manager)
+     c02  designer 56% + pm 44%                            verdade 0.72 (parecido)  nota 0.828
+
+c16  eng dados 100%  (3 exp., atual: Engenheiro de Dados)
+     c27  eng dados 100%                                   verdade 1.00 (parecido)  nota 0.852
+     c18  devops 71% + eng dados 29%                       verdade 0.65 (parecido)  nota 0.740
+
+c17  analista financeiro 100%  (7 exp., atual: Analista de Planejamento Financeiro)
+     c33  analista financeiro 64% + analista dados 36%     verdade 0.82 (parecido)  nota 0.891
+     c13  analista financeiro 100%                         verdade 1.00 (parecido)  nota 0.888
+     c34  analista financeiro 73% + analista dados 27%     verdade 0.87 (parecido)  nota 0.867
+
+c18  devops 71% + eng dados 29%  (4 exp., atual: Analista de Engenharia de Dados)
+     c12  devops 100%                                      verdade 0.85 (parecido)  nota 0.829
+     c21  devops 58% + vendas 42%                          verdade 0.50 (em parte)  nota 0.771
+     c20  devops 58% + backend 42%                         verdade 0.70 (parecido)  nota 0.763
+
+c19  fullstack 100%  (6 exp., atual: Desenvolvedor Fullstack)
+     c04  fullstack 100%                                   verdade 1.00 (parecido)  nota 0.895
+     c28  fullstack 100%                                   verdade 1.00 (parecido)  nota 0.866
+     c30  backend 47% + fullstack 27% + cientista dados 26% verdade 0.50 (parecido)  nota 0.782
+
+c20  devops 58% + backend 42%  (4 exp., atual: Desenvolvedor Backend)
+     c24  backend 83% + eng dados 17%                      verdade 0.67 (parecido)  nota 0.829
+     c32  frontend 69% + backend 31%                       verdade 0.22 (em parte)  nota 0.787
+     c12  devops 100%                                      verdade 0.79 (parecido)  nota 0.783
+
+c21  devops 58% + vendas 42%  (2 exp., atual: Engenheiro DevOps)
+     c18  devops 71% + eng dados 29%                       verdade 0.50 (em parte)  nota 0.771
+     c12  devops 100%                                      verdade 0.58 (parecido)  nota 0.751
+
+c22  rh 100%  (2 exp., atual: Analista de RH)
+     nenhum currículo parecido (o mais parecido de verdade tinha 0.00)
+
+c23  designer 100%  (6 exp., atual: UI Designer)
+     c25  designer 73% + frontend 27%                      verdade 0.86 (parecido)  nota 0.831
+     c02  designer 56% + pm 44%                            verdade 0.78 (parecido)  nota 0.794
+
+c24  backend 83% + eng dados 17%  (3 exp., atual: Desenvolvedor Backend)
+     c20  devops 58% + backend 42%                         verdade 0.67 (parecido)  nota 0.829
+     c32  frontend 69% + backend 31%                       verdade 0.28 (em parte)  nota 0.803
+     c19  fullstack 100%                                   verdade 0.41 (em parte)  nota 0.777
+
+c25  designer 73% + frontend 27%  (7 exp., atual: Desenvolvedor React)
+     c23  designer 100%                                    verdade 0.86 (parecido)  nota 0.831
+     c39  frontend 100%                                    verdade 0.64 (parecido)  nota 0.808
+     c26  frontend 100%                                    verdade 0.64 (parecido)  nota 0.806
+
+c26  frontend 100%  (2 exp., atual: Desenvolvedor React)
+     c39  frontend 100%                                    verdade 1.00 (parecido)  nota 0.861
+     c25  designer 73% + frontend 27%                      verdade 0.64 (parecido)  nota 0.806
+     c32  frontend 69% + backend 31%                       verdade 0.69 (parecido)  nota 0.777
+
+c27  eng dados 100%  (4 exp., atual: Engenheiro de Dados)
+     c16  eng dados 100%                                   verdade 1.00 (parecido)  nota 0.852
+     c18  devops 71% + eng dados 29%                       verdade 0.65 (parecido)  nota 0.756
+
+c28  fullstack 100%  (7 exp., atual: Desenvolvedor Web)
+     c19  fullstack 100%                                   verdade 1.00 (parecido)  nota 0.866
+     c04  fullstack 100%                                   verdade 1.00 (parecido)  nota 0.864
+     c30  backend 47% + fullstack 27% + cientista dados 26% verdade 0.50 (parecido)  nota 0.789
+
+c29  vendas 71% + marketing 29%  (6 exp., atual: Analista de Growth)
+     c03  vendas 100%                                      verdade 0.86 (parecido)  nota 0.781
+     c14  marketing 100%                                   verdade 0.64 (parecido)  nota 0.778
+     c40  marketing 100%                                   verdade 0.64 (parecido)  nota 0.776
+
+c30  backend 47% + fullstack 27% + cientista dados 26%  (6 exp., atual: Desenvolvedor Java)
+     c28  fullstack 100%                                   verdade 0.50 (parecido)  nota 0.789
+     c19  fullstack 100%                                   verdade 0.50 (parecido)  nota 0.782
+     c04  fullstack 100%                                   verdade 0.50 (parecido)  nota 0.778
+
+c31  enfermagem 79% + pm 21%  (5 exp., atual: Enfermeiro)
+     c06  enfermagem 51% + analista dados 49%              verdade 0.40 (em parte)  nota 0.787
+
+c32  frontend 69% + backend 31%  (7 exp., atual: Engenheiro de Software Backend)
+     c39  frontend 100%                                    verdade 0.69 (parecido)  nota 0.817
+     c24  backend 83% + eng dados 17%                      verdade 0.28 (em parte)  nota 0.803
+     c04  fullstack 100%                                   verdade 0.50 (parecido)  nota 0.791
+
+c33  analista financeiro 64% + analista dados 36%  (5 exp., atual: Analista de Planejamento Financeiro)
+     c17  analista financeiro 100%                         verdade 0.82 (parecido)  nota 0.891
+     c34  analista financeiro 73% + analista dados 27%     verdade 0.78 (parecido)  nota 0.889
+     c13  analista financeiro 100%                         verdade 0.82 (parecido)  nota 0.870
+
+c34  analista financeiro 73% + analista dados 27%  (6 exp., atual: Analista de Planejamento Financeiro)
+     c33  analista financeiro 64% + analista dados 36%     verdade 0.78 (parecido)  nota 0.889
+     c13  analista financeiro 100%                         verdade 0.87 (parecido)  nota 0.869
+     c17  analista financeiro 100%                         verdade 0.87 (parecido)  nota 0.867
+
+c35  analista dados 100%  (6 exp., atual: Analista de Dados)
+     c08  analista dados 57% + analista financeiro 43%     verdade 0.79 (parecido)  nota 0.808
+     c06  enfermagem 51% + analista dados 49%              verdade 0.49 (em parte)  nota 0.759
+     c34  analista financeiro 73% + analista dados 27%     verdade 0.63 (parecido)  nota 0.756
+
+c36  cientista dados 85% + devops 15%  (7 exp., atual: Cientista de Dados)
+     c07  cientista dados 100%                             verdade 0.85 (parecido)  nota 0.866
+     c11  cientista dados 100%                             verdade 0.85 (parecido)  nota 0.858
+     c09  cientista dados 79% + marketing 21%              verdade 0.68 (parecido)  nota 0.794
+
+c37  fullstack 52% + manutencao 48%  (3 exp., atual: Mecânico de Manutenção)
+     c38  manutencao 100%                                  verdade 0.48 (em parte)  nota 0.767
+     c04  fullstack 100%                                   verdade 0.52 (parecido)  nota 0.744
+
+c38  manutencao 100%  (3 exp., atual: Mecânico de Manutenção)
+     c37  fullstack 52% + manutencao 48%                   verdade 0.48 (em parte)  nota 0.767
+
+c39  frontend 100%  (6 exp., atual: Desenvolvedor React)
+     c26  frontend 100%                                    verdade 1.00 (parecido)  nota 0.861
+     c32  frontend 69% + backend 31%                       verdade 0.69 (parecido)  nota 0.817
+     c25  designer 73% + frontend 27%                      verdade 0.64 (parecido)  nota 0.808
+
+c40  marketing 100%  (6 exp., atual: Analista de Performance)
+     c14  marketing 100%                                   verdade 1.00 (parecido)  nota 0.896
+     c09  cientista dados 79% + marketing 21%              verdade 0.21 (em parte)  nota 0.784
+     c29  vendas 71% + marketing 29%                       verdade 0.64 (parecido)  nota 0.776

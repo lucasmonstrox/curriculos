@@ -1,0 +1,4431 @@
+{
+  "candidatos": [
+    {
+      "id": "c01",
+      "nome": "André Lima Araújo",
+      "email": "andre.araujo.c01@example.com",
+      "telefone": "(11) 90000-0001",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "titulo": "Consultor Comercial",
+      "area": "comercial",
+      "senioridade": "pleno",
+      "anos_experiencia": 5,
+      "resumo": "5 anos de experiência: 3 anos como consultor comercial, 2 anos como desenvolvedor java. Hoje atua como consultor comercial. Foco em prospecção, negociação e fechamento.",
+      "habilidades": [
+        "Excel",
+        "CRM",
+        "Negociação",
+        "Cold call",
+        "Node.js",
+        "Java",
+        "Microsserviços"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Consultor Comercial Pleno",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2024-04",
+          "fim": null,
+          "atividades": [
+            "Prospectava 23 empresas por semana.",
+            "Bateu 36% acima da meta anual de vendas de seguro auto.",
+            "Fechou contratos de sinistros com empresas grandes."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Java Pleno",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2022-02",
+          "fim": "2024-03",
+          "atividades": [
+            "Migrou o sistema monolítico de cotação para microsserviços.",
+            "Construiu as APIs de seguro auto usadas pelo app e pelo site.",
+            "Integrou 34 parceiros externos por API.",
+            "Treinou os colegas novos."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Relações Internacionais",
+          "instituicao": "Fatec",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 740000
+      }
+    },
+    {
+      "id": "c02",
+      "nome": "Mariana Almeida Cardoso",
+      "email": "mariana.cardoso.c02@example.com",
+      "telefone": "(11) 90000-0002",
+      "cidade": "Brasília",
+      "uf": "DF",
+      "titulo": "Product Manager",
+      "area": "produto",
+      "senioridade": "pleno",
+      "anos_experiencia": 5,
+      "resumo": "5 anos de experiência: 3 anos como ux designer, 2 anos como product manager. Hoje atua como product manager. Faz a ponte entre negócio, design e tecnologia.",
+      "habilidades": [
+        "Design system",
+        "Figma",
+        "Jornada do usuário",
+        "Testes de usabilidade",
+        "Jira",
+        "Scrum",
+        "Roadmap",
+        "Métricas de produto"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Gerente de Produto Pleno",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2024-08",
+          "fim": null,
+          "atividades": [
+            "Acompanhava as métricas de ERP em nuvem e decidia o que cortar.",
+            "Definiu o roadmap de ERP em nuvem com um time de 2 pessoas.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "UX Designer Pleno",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2021-06",
+          "fim": "2024-04",
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Desenhou o app de frota do zero, da pesquisa ao protótipo.",
+            "Entrevistou 58 usuários para entender como usam rastreamento de cargas."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Arquitetura e Urbanismo",
+          "instituicao": "UFPE",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [
+        "PSPO"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "remoto"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 870000
+      }
+    },
+    {
+      "id": "c03",
+      "nome": "Mariana Carvalho Moreira",
+      "email": "mariana.moreira.c03@example.com",
+      "telefone": "(11) 90000-0003",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "titulo": "SDR",
+      "area": "comercial",
+      "senioridade": "especialista",
+      "anos_experiencia": 15,
+      "resumo": "SDR com 15 anos de experiência. Foco em prospecção, negociação e fechamento.",
+      "habilidades": [
+        "Vendas consultivas",
+        "Prospecção",
+        "Salesforce",
+        "Cold call",
+        "Excel",
+        "HubSpot",
+        "Negociação",
+        "CRM",
+        "Funil de vendas"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Consultor Comercial Especialista",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2025-04",
+          "fim": null,
+          "atividades": [
+            "Abriu a carteira de clientes de ERP em nuvem numa região nova.",
+            "Agendava reuniões para o time de vendas."
+          ]
+        },
+        {
+          "cargo": "Executivo de Contas Especialista",
+          "empresa": "Escola Horizonte",
+          "setor": "educacao",
+          "inicio": "2022-07",
+          "fim": "2025-01",
+          "atividades": [
+            "Prospectava 53 empresas por semana.",
+            "Agendava reuniões para o time de vendas.",
+            "Abriu a carteira de clientes de matrícula numa região nova.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "SDR Especialista",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2021-04",
+          "fim": "2022-03",
+          "atividades": [
+            "Fechou contratos de convênios com empresas grandes.",
+            "Prospectava 21 empresas por semana.",
+            "Agendava reuniões para o time de vendas."
+          ]
+        },
+        {
+          "cargo": "SDR Especialista",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2018-10",
+          "fim": "2021-03",
+          "atividades": [
+            "Abriu a carteira de clientes de agendamento de consultas numa região nova.",
+            "Fechou contratos de convênios com empresas grandes.",
+            "Prospectava 8 empresas por semana."
+          ]
+        },
+        {
+          "cargo": "Consultor Comercial Sênior",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2016-08",
+          "fim": "2018-09",
+          "atividades": [
+            "Bateu 18% acima da meta anual de vendas de app de delivery.",
+            "Fechou contratos de app de delivery com empresas grandes.",
+            "Agendava reuniões para o time de vendas.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "SDR Sênior",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2013-06",
+          "fim": "2016-08",
+          "atividades": [
+            "Abriu a carteira de clientes de manutenção de fábrica numa região nova.",
+            "Prospectava 35 empresas por semana.",
+            "Bateu 11% acima da meta anual de vendas de compras de insumos.",
+            "Apresentava os resultados para a diretoria."
+          ]
+        },
+        {
+          "cargo": "SDR Pleno",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2010-09",
+          "fim": "2013-03",
+          "atividades": [
+            "Agendava reuniões para o time de vendas.",
+            "Abriu a carteira de clientes de entregas numa região nova."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Administração",
+          "instituicao": "UFBA",
+          "nivel": "superior_completo",
+          "conclusao": 2009
+        },
+        {
+          "curso": "MBA em Data Science",
+          "instituicao": "Estácio",
+          "nivel": "pos_graduacao",
+          "conclusao": 2012
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "hibrido",
+          "remoto"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 2160000
+      }
+    },
+    {
+      "id": "c04",
+      "nome": "Débora Moreira Barbosa",
+      "email": "debora.barbosa.c04@example.com",
+      "telefone": "(11) 90000-0004",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "titulo": "Engenheiro de Software Fullstack",
+      "area": "tecnologia",
+      "senioridade": "especialista",
+      "anos_experiencia": 12,
+      "resumo": "Engenheiro de Software Fullstack com 12 anos de experiência. Faz front, back e um pouco de infraestrutura.",
+      "habilidades": [
+        "Prisma",
+        "PostgreSQL",
+        "Next.js",
+        "Docker",
+        "TypeScript",
+        "Laravel",
+        "APIs REST",
+        "JavaScript",
+        "PHP",
+        "Node.js",
+        "React"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Software Fullstack Especialista",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2025-12",
+          "fim": null,
+          "atividades": [
+            "Manteve o site e a API de compras de insumos.",
+            "Montou o painel administrativo de linha de produção."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Fullstack (líder de time)",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2022-07",
+          "fim": "2025-10",
+          "atividades": [
+            "Entregou 31 funcionalidades novas de convênios em um trimestre.",
+            "Montou o painel administrativo de prontuário.",
+            "Manteve o site e a API de agendamento de consultas."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Web (líder de time)",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2020-07",
+          "fim": "2022-07",
+          "atividades": [
+            "Entregou 32 funcionalidades novas de convênios em um trimestre.",
+            "Montou o painel administrativo de agendamento de consultas.",
+            "Manteve o site e a API de convênios.",
+            "Apresentava os resultados para a diretoria."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Web Sênior",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2017-03",
+          "fim": "2020-07",
+          "atividades": [
+            "Construiu do zero o sistema de sinistros, da tela ao banco.",
+            "Montou o painel administrativo de sinistros.",
+            "Entregou 44 funcionalidades novas de cotação em um trimestre."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Fullstack Pleno",
+          "empresa": "Atacarejo Central",
+          "setor": "varejo",
+          "inicio": "2014-01",
+          "fim": "2016-12",
+          "atividades": [
+            "Manteve o site e a API de estoque.",
+            "Construiu do zero o sistema de estoque, da tela ao banco.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "Estácio",
+          "nivel": "superior_completo",
+          "conclusao": 2013
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "remoto",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 2270000
+      }
+    },
+    {
+      "id": "c05",
+      "nome": "Otávio Costa Rodrigues",
+      "email": "otavio.rodrigues.c05@example.com",
+      "telefone": "(11) 90000-0005",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "titulo": "Gerente de Contas",
+      "area": "comercial",
+      "senioridade": "senior",
+      "anos_experiencia": 8,
+      "resumo": "Gerente de Contas com 8 anos de experiência. Foco em onboarding e renovação de contratos.",
+      "habilidades": [
+        "Onboarding de clientes",
+        "Health score",
+        "Zendesk",
+        "Excel",
+        "Retenção",
+        "Renovação de contratos",
+        "HubSpot"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Gerente de Contas Sênior",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2024-06",
+          "fim": null,
+          "atividades": [
+            "Baixou o cancelamento de clientes em 7%.",
+            "Cuidava de uma carteira de 20 clientes de faturamento."
+          ]
+        },
+        {
+          "cargo": "Analista de Sucesso do Cliente Sênior",
+          "empresa": "GestãoFácil Software",
+          "setor": "software",
+          "inicio": "2022-04",
+          "fim": "2024-02",
+          "atividades": [
+            "Baixou o cancelamento de clientes em 25%.",
+            "Fazia o onboarding dos clientes novos de sistema de gestão.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Customer Success Manager Pleno",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2021-01",
+          "fim": "2022-03",
+          "atividades": [
+            "Fazia o onboarding dos clientes novos de entregas.",
+            "Cuidava de uma carteira de 22 clientes de rastreamento de cargas."
+          ]
+        },
+        {
+          "cargo": "Customer Success Manager Pleno",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2018-11",
+          "fim": "2021-01",
+          "atividades": [
+            "Fazia o onboarding dos clientes novos de faturamento.",
+            "Montou o processo de renovação de contratos."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Marketing",
+          "instituicao": "UFRJ",
+          "nivel": "superior_completo",
+          "conclusao": 2018
+        },
+        {
+          "curso": "MBA em Gestão Empresarial",
+          "instituicao": "Unicamp",
+          "nivel": "pos_graduacao",
+          "conclusao": 2022
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 1060000
+      }
+    },
+    {
+      "id": "c06",
+      "nome": "Henrique Cardoso Araújo",
+      "email": "henrique.araujo.c06@example.com",
+      "telefone": "(11) 90000-0006",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "titulo": "Analista de Dados",
+      "area": "dados",
+      "senioridade": "pleno",
+      "anos_experiencia": 6,
+      "resumo": "6 anos de experiência: 3 anos como enfermeiro, 3 anos como analista de dados. Hoje atua como analista de dados. Foco em dashboards e indicadores de negócio.",
+      "habilidades": [
+        "UTI",
+        "Segurança do paciente",
+        "Gestão de equipe de enfermagem",
+        "Pronto-socorro",
+        "Indicadores de negócio",
+        "Power BI",
+        "Looker Studio",
+        "Tableau",
+        "Excel"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Dados Pleno",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2023-12",
+          "fim": null,
+          "atividades": [
+            "Atendia 48 áreas com pedidos de análise.",
+            "Cruzou os dados de ERP em nuvem e achou uma perda de 8% na operação."
+          ]
+        },
+        {
+          "cargo": "Técnico de Enfermagem Pleno",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2020-10",
+          "fim": "2023-10",
+          "atividades": [
+            "Plantões de 12 horas no pronto-socorro.",
+            "Controlava os indicadores de infecção hospitalar.",
+            "Implantou o protocolo de segurança do paciente na ala."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Enfermagem",
+          "instituicao": "UFRJ",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [
+        "Google Data Analytics"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "hibrido",
+          "remoto"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 840000
+      }
+    },
+    {
+      "id": "c07",
+      "nome": "Felipe Rocha Moreira",
+      "email": "felipe.moreira.c07@example.com",
+      "telefone": "(11) 90000-0007",
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "titulo": "Cientista de Dados",
+      "area": "dados",
+      "senioridade": "junior",
+      "anos_experiencia": 2,
+      "resumo": "Cientista de Dados com 2 anos de experiência. Foco em estatística aplicada a perguntas de negócio.",
+      "habilidades": [
+        "R",
+        "scikit-learn",
+        "Modelos preditivos",
+        "Machine learning",
+        "Estatística",
+        "Testes A/B",
+        "XGBoost",
+        "SQL"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Cientista de Dados Júnior",
+          "empresa": "Moda Rio",
+          "setor": "varejo",
+          "inicio": "2025-12",
+          "fim": null,
+          "atividades": [
+            "Fez um modelo de previsão de demanda de lojas físicas com erro 37% menor.",
+            "Colocou em produção um modelo de recomendação de lojas físicas."
+          ]
+        },
+        {
+          "cargo": "Cientista de Dados (estágio)",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2024-12",
+          "fim": "2025-08",
+          "atividades": [
+            "Fez um modelo de previsão de demanda de linha de produção com erro 23% menor.",
+            "Criou um modelo para prever o cancelamento de clientes de compras de insumos.",
+            "Segmentou a base de clientes de manutenção de fábrica por comportamento."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Produção",
+          "instituicao": "PUC-Rio",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [
+        "Azure Data Scientist Associate"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "presencial"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 360000
+      }
+    },
+    {
+      "id": "c08",
+      "nome": "Felipe Teixeira Carvalho",
+      "email": "felipe.carvalho.c08@example.com",
+      "telefone": "(11) 90000-0008",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "titulo": "Analista de Planejamento Financeiro",
+      "area": "financas",
+      "senioridade": "senior",
+      "anos_experiencia": 15,
+      "resumo": "15 anos de experiência: 9 anos como analista de bi, 7 anos como analista de planejamento financeiro. Hoje atua como analista de planejamento financeiro. Foco em planejamento financeiro e orçamento.",
+      "habilidades": [
+        "Dashboards",
+        "Looker Studio",
+        "DAX",
+        "Excel",
+        "Tableau",
+        "Fluxo de caixa",
+        "Análise de custos",
+        "Conciliação bancária",
+        "Modelagem financeira"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista Financeiro Sênior",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2025-08",
+          "fim": null,
+          "atividades": [
+            "Fechava o orçamento anual da área de estoque.",
+            "Montou o modelo de fluxo de caixa usado pela diretoria."
+          ]
+        },
+        {
+          "cargo": "Controller Sênior",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2023-08",
+          "fim": "2025-07",
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Fechava o orçamento anual da área de internet residencial.",
+            "Analisou os custos de faturamento e cortou 33% de despesa."
+          ]
+        },
+        {
+          "cargo": "Analista de Planejamento Financeiro Pleno",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2021-04",
+          "fim": "2023-06",
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Fechava o orçamento anual da área de seguro auto.",
+            "Montou o modelo de fluxo de caixa usado pela diretoria."
+          ]
+        },
+        {
+          "cargo": "Controller Júnior",
+          "empresa": "Crédito Já",
+          "setor": "financeiro",
+          "inicio": "2019-09",
+          "fim": "2020-12",
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Analista de Dados (líder de time)",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2016-07",
+          "fim": "2019-05",
+          "atividades": [
+            "Cruzou os dados de sinistros e achou uma perda de 25% na operação.",
+            "Montou os dashboards de sinistros usados pela diretoria.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Analista de Dados Sênior",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2013-04",
+          "fim": "2016-05",
+          "atividades": [
+            "Definiu os indicadores de seguro auto com as áreas de negócio.",
+            "Atendia 7 áreas com pedidos de análise."
+          ]
+        },
+        {
+          "cargo": "Analista de BI Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2010-03",
+          "fim": "2013-01",
+          "atividades": [
+            "Atendia 13 áreas com pedidos de análise.",
+            "Cruzou os dados de linha de produção e achou uma perda de 26% na operação."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Produção",
+          "instituicao": "Anhanguera",
+          "nivel": "superior_completo",
+          "conclusao": 2009
+        },
+        {
+          "curso": "Mestrado em Gestão da Tecnologia da Informação",
+          "instituicao": "UFPE",
+          "nivel": "mestrado",
+          "conclusao": 2012
+        }
+      ],
+      "certificacoes": [
+        "Google Data Analytics"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "pj",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1110000
+      }
+    },
+    {
+      "id": "c09",
+      "nome": "Fábio Ribeiro Martins",
+      "email": "fabio.martins.c09@example.com",
+      "telefone": "(11) 90000-0009",
+      "cidade": "Vitória",
+      "uf": "ES",
+      "titulo": "Analista de Marketing Digital",
+      "area": "marketing",
+      "senioridade": "junior",
+      "anos_experiencia": 7,
+      "resumo": "7 anos de experiência: 5 anos como analista de machine learning, 1 ano como analista de marketing digital. Hoje atua como analista de marketing digital. Foco em aquisição de clientes e mídia paga.",
+      "habilidades": [
+        "R",
+        "Machine learning",
+        "scikit-learn",
+        "Python",
+        "XGBoost",
+        "Testes A/B",
+        "pandas",
+        "Modelos preditivos",
+        "SQL",
+        "Canva",
+        "Copywriting"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Growth Júnior",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2025-06",
+          "fim": null,
+          "atividades": [
+            "Gerenciava a mídia paga de estoque com verba de R$ 32 mil por mês.",
+            "Analisava o funil de aquisição no Google Analytics."
+          ]
+        },
+        {
+          "cargo": "Analista de Machine Learning (líder de time)",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2022-02",
+          "fim": "2025-04",
+          "atividades": [
+            "Criou um modelo para prever o cancelamento de clientes de compras de insumos.",
+            "Fez um modelo de previsão de demanda de linha de produção com erro 31% menor.",
+            "Colocou em produção um modelo de recomendação de linha de produção."
+          ]
+        },
+        {
+          "cargo": "Analista de Machine Learning Pleno",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2019-11",
+          "fim": "2022-01",
+          "atividades": [
+            "Segmentou a base de clientes de prontuário por comportamento.",
+            "Colocou em produção um modelo de recomendação de convênios."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Estatística",
+          "instituicao": "FGV",
+          "nivel": "superior_completo",
+          "conclusao": 2019
+        },
+        {
+          "curso": "MBA em Gestão Empresarial",
+          "instituicao": "UFPR",
+          "nivel": "pos_graduacao",
+          "conclusao": 2021
+        }
+      ],
+      "certificacoes": [
+        "TensorFlow Developer",
+        "Meta Blueprint"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 340000
+      }
+    },
+    {
+      "id": "c10",
+      "nome": "Isabela Santos Souza",
+      "email": "isabela.souza.c10@example.com",
+      "telefone": "(11) 90000-0010",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "titulo": "Gerente de Contas",
+      "area": "comercial",
+      "senioridade": "gestao",
+      "anos_experiencia": 7,
+      "resumo": "Gerente de Contas com 7 anos de experiência. Foco em retenção e carteira de clientes.",
+      "habilidades": [
+        "Health score",
+        "HubSpot",
+        "Zendesk",
+        "Excel",
+        "NPS",
+        "Renovação de contratos",
+        "Retenção"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Sucesso do Cliente (líder de time)",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2024-04",
+          "fim": null,
+          "atividades": [
+            "Fazia o onboarding dos clientes novos de agendamento de consultas.",
+            "Montou o processo de renovação de contratos.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Customer Success Manager Pleno",
+          "empresa": "GestãoFácil Software",
+          "setor": "software",
+          "inicio": "2022-09",
+          "fim": "2024-02",
+          "atividades": [
+            "Montou o processo de renovação de contratos.",
+            "Baixou o cancelamento de clientes em 14%.",
+            "Acompanhava o NPS e ligava para os clientes insatisfeitos."
+          ]
+        },
+        {
+          "cargo": "Gerente de Contas Pleno",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2020-02",
+          "fim": "2022-05",
+          "atividades": [
+            "Montou o processo de renovação de contratos.",
+            "Fazia o onboarding dos clientes novos de faturamento.",
+            "Baixou o cancelamento de clientes em 30%.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Analista de Sucesso do Cliente Júnior",
+          "empresa": "Aprende+",
+          "setor": "educacao",
+          "inicio": "2019-01",
+          "fim": "2020-01",
+          "atividades": [
+            "Cuidava de uma carteira de 59 clientes de plataforma de cursos.",
+            "Baixou o cancelamento de clientes em 37%."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Marketing",
+          "instituicao": "UFPR",
+          "nivel": "superior_completo",
+          "conclusao": 2018
+        }
+      ],
+      "certificacoes": [
+        "HubSpot Service Hub"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "avancado"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 1230000
+      }
+    },
+    {
+      "id": "c11",
+      "nome": "Henrique Carvalho Ribeiro",
+      "email": "henrique.ribeiro.c11@example.com",
+      "telefone": "(11) 90000-0011",
+      "cidade": "Florianópolis",
+      "uf": "SC",
+      "titulo": "Cientista de Dados",
+      "area": "dados",
+      "senioridade": "senior",
+      "anos_experiencia": 6,
+      "resumo": "Cientista de Dados com 6 anos de experiência. Foco em estatística aplicada a perguntas de negócio.",
+      "habilidades": [
+        "Estatística",
+        "Modelos preditivos",
+        "R",
+        "XGBoost",
+        "SQL",
+        "Machine learning",
+        "pandas"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Cientista de Dados Sênior",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2024-03",
+          "fim": null,
+          "atividades": [
+            "Fez um modelo de previsão de demanda de sistema de gestão com erro 42% menor.",
+            "Segmentou a base de clientes de app de delivery por comportamento."
+          ]
+        },
+        {
+          "cargo": "Cientista de Dados Pleno",
+          "empresa": "LojaMix",
+          "setor": "varejo",
+          "inicio": "2022-06",
+          "fim": "2024-03",
+          "atividades": [
+            "Colocou em produção um modelo de recomendação de e-commerce.",
+            "Fez um modelo de previsão de demanda de estoque com erro 7% menor.",
+            "Criou um modelo para prever o cancelamento de clientes de estoque."
+          ]
+        },
+        {
+          "cargo": "Cientista de Dados Júnior",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2020-08",
+          "fim": "2022-05",
+          "atividades": [
+            "Colocou em produção um modelo de recomendação de agendamento de consultas.",
+            "Criou um modelo para prever o cancelamento de clientes de prontuário.",
+            "Fez um modelo de previsão de demanda de convênios com erro 28% menor."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Estatística",
+          "instituicao": "UFBA",
+          "nivel": "superior_completo",
+          "conclusao": 2020
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "hibrido",
+          "remoto"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 1290000
+      }
+    },
+    {
+      "id": "c12",
+      "nome": "Juliana Rocha Pereira",
+      "email": "juliana.pereira.c12@example.com",
+      "telefone": "(11) 90000-0012",
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "titulo": "Engenheiro de Confiabilidade (SRE)",
+      "area": "tecnologia",
+      "senioridade": "especialista",
+      "anos_experiencia": 13,
+      "resumo": "Engenheiro de Confiabilidade (SRE) com 13 anos de experiência. Foco em manter os sistemas no ar com custo baixo.",
+      "habilidades": [
+        "Shell script",
+        "Terraform",
+        "Observabilidade",
+        "CI/CD",
+        "Grafana",
+        "Kubernetes",
+        "Prometheus",
+        "Ansible",
+        "Linux",
+        "GitHub Actions",
+        "Docker"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Confiabilidade (SRE) Especialista",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2026-02",
+          "fim": null,
+          "atividades": [
+            "Reduziu o custo de nuvem em 11%.",
+            "Montou o monitoramento e os alertas dos sistemas de cartão de crédito."
+          ]
+        },
+        {
+          "cargo": "Analista de Infraestrutura Especialista",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2023-12",
+          "fim": "2025-11",
+          "atividades": [
+            "Automatizou o deploy de 17 serviços com pipelines de CI/CD.",
+            "Atuou no plantão de incidentes e baixou o tempo de recuperação em 8%.",
+            "Montou o monitoramento e os alertas dos sistemas de internet residencial."
+          ]
+        },
+        {
+          "cargo": "Engenheiro DevOps Especialista",
+          "empresa": "PagaLeve",
+          "setor": "financeiro",
+          "inicio": "2020-06",
+          "fim": "2023-10",
+          "atividades": [
+            "Montou o monitoramento e os alertas dos sistemas de cartão de crédito.",
+            "Reduziu o custo de nuvem em 34%.",
+            "Atuou no plantão de incidentes e baixou o tempo de recuperação em 43%."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Cloud (líder de time)",
+          "empresa": "LojaMix",
+          "setor": "varejo",
+          "inicio": "2017-09",
+          "fim": "2020-02",
+          "atividades": [
+            "Automatizou o deploy de 20 serviços com pipelines de CI/CD.",
+            "Montou o monitoramento e os alertas dos sistemas de estoque."
+          ]
+        },
+        {
+          "cargo": "Analista de Infraestrutura Pleno",
+          "empresa": "GestãoFácil Software",
+          "setor": "software",
+          "inicio": "2015-09",
+          "fim": "2017-05",
+          "atividades": [
+            "Atuou no plantão de incidentes e baixou o tempo de recuperação em 39%.",
+            "Montou o monitoramento e os alertas dos sistemas de ERP em nuvem.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Engenheiro DevOps Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2012-09",
+          "fim": "2015-08",
+          "atividades": [
+            "Reduziu o custo de nuvem em 45%.",
+            "Montou o monitoramento e os alertas dos sistemas de linha de produção.",
+            "Automatizou o deploy de 44 serviços com pipelines de CI/CD."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Computação",
+          "instituicao": "UFPR",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 1940000
+      }
+    },
+    {
+      "id": "c13",
+      "nome": "Felipe Gomes Nascimento",
+      "email": "felipe.nascimento.c13@example.com",
+      "telefone": "(11) 90000-0013",
+      "cidade": "Brasília",
+      "uf": "DF",
+      "titulo": "Analista de Planejamento Financeiro",
+      "area": "financas",
+      "senioridade": "senior",
+      "anos_experiencia": 7,
+      "resumo": "Analista de Planejamento Financeiro com 7 anos de experiência. Foco em análise de resultado e custos.",
+      "habilidades": [
+        "Orçamento",
+        "Power BI",
+        "Análise de custos",
+        "DRE",
+        "Conciliação bancária",
+        "Modelagem financeira",
+        "Fluxo de caixa",
+        "SAP",
+        "Excel"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista Financeiro Sênior",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2024-10",
+          "fim": null,
+          "atividades": [
+            "Fechava o orçamento anual da área de linha de produção.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Analista de Planejamento Financeiro Pleno",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2023-01",
+          "fim": "2024-07",
+          "atividades": [
+            "Reduziu o prazo do fechamento mensal em 54 dias.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Fechava o orçamento anual da área de sistema de gestão."
+          ]
+        },
+        {
+          "cargo": "Controller Pleno",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2021-11",
+          "fim": "2022-10",
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Fechava o orçamento anual da área de faturamento."
+          ]
+        },
+        {
+          "cargo": "Analista Financeiro Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2019-10",
+          "fim": "2021-10",
+          "atividades": [
+            "Fechava o orçamento anual da área de manutenção de fábrica.",
+            "Fazia a conciliação bancária e o DRE do mês."
+          ]
+        },
+        {
+          "cargo": "Controller (estágio)",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2019-01",
+          "fim": "2019-07",
+          "atividades": [
+            "Analisou os custos de internet residencial e cortou 39% de despesa.",
+            "Reduziu o prazo do fechamento mensal em 52 dias.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Treinou os colegas novos."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Administração",
+          "instituicao": "Estácio",
+          "nivel": "superior_completo",
+          "conclusao": 2019
+        },
+        {
+          "curso": "MBA em Data Science",
+          "instituicao": "PUC-Rio",
+          "nivel": "pos_graduacao",
+          "conclusao": 2022
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "remoto",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 1930000
+      }
+    },
+    {
+      "id": "c14",
+      "nome": "Fábio Barbosa Nascimento",
+      "email": "fabio.nascimento.c14@example.com",
+      "telefone": "(11) 90000-0014",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "titulo": "Analista de Performance",
+      "area": "marketing",
+      "senioridade": "especialista",
+      "anos_experiencia": 12,
+      "resumo": "Analista de Performance com 12 anos de experiência. Foco em aquisição de clientes e mídia paga.",
+      "habilidades": [
+        "Funil de aquisição",
+        "Mídia paga",
+        "SEO",
+        "Google Analytics",
+        "Canva",
+        "Meta Ads",
+        "Google Ads",
+        "E-mail marketing"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Performance Especialista",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2024-06",
+          "fim": null,
+          "atividades": [
+            "Cuidou das redes sociais de seguro auto.",
+            "Analisava o funil de aquisição no Google Analytics.",
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Analista de Growth Sênior",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2023-03",
+          "fim": "2024-04",
+          "atividades": [
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Analisava o funil de aquisição no Google Analytics.",
+            "Baixou o custo por cliente novo em 15%."
+          ]
+        },
+        {
+          "cargo": "Analista de Performance Sênior",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2022-05",
+          "fim": "2023-03",
+          "atividades": [
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Cuidou das redes sociais de entregas."
+          ]
+        },
+        {
+          "cargo": "Analista de Marketing Digital Sênior",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2019-09",
+          "fim": "2022-01",
+          "atividades": [
+            "Baixou o custo por cliente novo em 14%.",
+            "Cuidou das redes sociais de linha de produção."
+          ]
+        },
+        {
+          "cargo": "Analista de Marketing Digital (líder de time)",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2016-03",
+          "fim": "2019-07",
+          "atividades": [
+            "Cuidou das redes sociais de seguro auto.",
+            "Baixou o custo por cliente novo em 30%.",
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Analista de Growth Júnior",
+          "empresa": "Moda Rio",
+          "setor": "varejo",
+          "inicio": "2014-07",
+          "fim": "2016-03",
+          "atividades": [
+            "Baixou o custo por cliente novo em 41%.",
+            "Montou as campanhas de e-mail para a base de clientes."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Publicidade e Propaganda",
+          "instituicao": "USP",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "presencial"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 2120000
+      }
+    },
+    {
+      "id": "c15",
+      "nome": "Eduarda Barbosa Pereira",
+      "email": "eduarda.pereira.c15@example.com",
+      "telefone": "(11) 90000-0015",
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "titulo": "Product Manager",
+      "area": "produto",
+      "senioridade": "pleno",
+      "anos_experiencia": 4,
+      "resumo": "Product Manager com 4 anos de experiência. Faz a ponte entre negócio, design e tecnologia.",
+      "habilidades": [
+        "Métricas de produto",
+        "Roadmap",
+        "Jira",
+        "Priorização",
+        "OKRs",
+        "Scrum",
+        "Descoberta de produto"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Product Manager Pleno",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2024-03",
+          "fim": null,
+          "atividades": [
+            "Conversava com clientes toda semana para priorizar o que entrava.",
+            "Lançou a nova versão de entregas e o uso subiu 15%."
+          ]
+        },
+        {
+          "cargo": "Product Manager Júnior",
+          "empresa": "Crédito Já",
+          "setor": "financeiro",
+          "inicio": "2023-05",
+          "fim": "2024-01",
+          "atividades": [
+            "Lançou a nova versão de empréstimo e o uso subiu 22%.",
+            "Conversava com clientes toda semana para priorizar o que entrava."
+          ]
+        },
+        {
+          "cargo": "Product Manager Júnior",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2022-10",
+          "fim": "2023-05",
+          "atividades": [
+            "Definiu o roadmap de ERP em nuvem com um time de 29 pessoas.",
+            "Acompanhava as métricas de ERP em nuvem e decidia o que cortar.",
+            "Organizava as cerimônias do time no Scrum."
+          ]
+        },
+        {
+          "cargo": "Gerente de Produto Júnior",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2022-03",
+          "fim": "2022-09",
+          "atividades": [
+            "Lançou a nova versão de pagamentos e o uso subiu 11%.",
+            "Acompanhava as métricas de cartão de crédito e decidia o que cortar.",
+            "Organizava as cerimônias do time no Scrum."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Sistemas de Informação",
+          "instituicao": "Uninove",
+          "nivel": "superior_completo",
+          "conclusao": 2021
+        }
+      ],
+      "certificacoes": [
+        "CSPO (Scrum Product Owner)"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 850000
+      }
+    },
+    {
+      "id": "c16",
+      "nome": "Beatriz Moreira Lima",
+      "email": "beatriz.lima.c16@example.com",
+      "telefone": "(11) 90000-0016",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "titulo": "Engenheiro de Dados",
+      "area": "dados",
+      "senioridade": "pleno",
+      "anos_experiencia": 5,
+      "resumo": "Engenheiro de Dados com 5 anos de experiência. Foco em deixar o dado limpo e disponível para análise.",
+      "habilidades": [
+        "Kafka",
+        "AWS",
+        "Airflow",
+        "Python",
+        "Databricks",
+        "ETL",
+        "dbt"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Dados Pleno",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2025-02",
+          "fim": null,
+          "atividades": [
+            "Montou os pipelines que levam os dados de agendamento de consultas para o data lake.",
+            "Criou a camada de dados tratados usada pelos analistas."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Dados Pleno",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2023-01",
+          "fim": "2025-02",
+          "atividades": [
+            "Montou os pipelines que levam os dados de sinistros para o data lake.",
+            "Criou a camada de dados tratados usada pelos analistas.",
+            "Reduziu o tempo de processamento diário de sinistros em 7%."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Dados Júnior",
+          "empresa": "Atacarejo Central",
+          "setor": "varejo",
+          "inicio": "2021-10",
+          "fim": "2022-09",
+          "atividades": [
+            "Reduziu o tempo de processamento diário de estoque em 5%.",
+            "Montou os pipelines que levam os dados de lojas físicas para o data lake."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Sistemas de Informação",
+          "instituicao": "Fatec",
+          "nivel": "superior_completo",
+          "conclusao": 2020
+        }
+      ],
+      "certificacoes": [
+        "Databricks Data Engineer"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1080000
+      }
+    },
+    {
+      "id": "c17",
+      "nome": "Gabriela Teixeira Costa",
+      "email": "gabriela.costa.c17@example.com",
+      "telefone": "(11) 90000-0017",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "titulo": "Analista de Planejamento Financeiro",
+      "area": "financas",
+      "senioridade": "especialista",
+      "anos_experiencia": 11,
+      "resumo": "Analista de Planejamento Financeiro com 11 anos de experiência. Foco em análise de resultado e custos.",
+      "habilidades": [
+        "Modelagem financeira",
+        "Fluxo de caixa",
+        "Conciliação bancária",
+        "Excel",
+        "DRE",
+        "Power BI",
+        "Análise de custos"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista Financeiro Especialista",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2024-08",
+          "fim": null,
+          "atividades": [
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Fechava o orçamento anual da área de prontuário."
+          ]
+        },
+        {
+          "cargo": "Analista de Planejamento Financeiro Sênior",
+          "empresa": "Conta Fácil",
+          "setor": "financeiro",
+          "inicio": "2023-11",
+          "fim": "2024-07",
+          "atividades": [
+            "Analisou os custos de cartão de crédito e cortou 33% de despesa.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Fechava o orçamento anual da área de empréstimo."
+          ]
+        },
+        {
+          "cargo": "Controller Sênior",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2022-09",
+          "fim": "2023-07",
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Reduziu o prazo do fechamento mensal em 21 dias."
+          ]
+        },
+        {
+          "cargo": "Analista de Planejamento Financeiro Sênior",
+          "empresa": "Faculdade Nova Era",
+          "setor": "educacao",
+          "inicio": "2021-05",
+          "fim": "2022-09",
+          "atividades": [
+            "Analisou os custos de matrícula e cortou 41% de despesa.",
+            "Fechava o orçamento anual da área de matrícula.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Analista Financeiro Sênior",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2018-09",
+          "fim": "2021-05",
+          "atividades": [
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Reduziu o prazo do fechamento mensal em 4 dias.",
+            "Fechava o orçamento anual da área de internet residencial."
+          ]
+        },
+        {
+          "cargo": "Analista Financeiro Pleno",
+          "empresa": "Crédito Já",
+          "setor": "financeiro",
+          "inicio": "2017-06",
+          "fim": "2018-05",
+          "atividades": [
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Fechava o orçamento anual da área de pagamentos."
+          ]
+        },
+        {
+          "cargo": "Analista Financeiro Pleno",
+          "empresa": "GestãoFácil Software",
+          "setor": "software",
+          "inicio": "2015-03",
+          "fim": "2017-03",
+          "atividades": [
+            "Analisou os custos de ERP em nuvem e cortou 28% de despesa.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Fechava o orçamento anual da área de sistema de gestão."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciências Contábeis",
+          "instituicao": "Fatec",
+          "nivel": "superior_completo",
+          "conclusao": 2015
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "clt",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 1660000
+      }
+    },
+    {
+      "id": "c18",
+      "nome": "Wagner Silva Silva",
+      "email": "wagner.silva.c18@example.com",
+      "telefone": "(11) 90000-0018",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "titulo": "Analista de Engenharia de Dados",
+      "area": "dados",
+      "senioridade": "pleno",
+      "anos_experiencia": 11,
+      "resumo": "11 anos de experiência: 8 anos como engenheiro de confiabilidade (sre), 3 anos como analista de engenharia de dados. Hoje atua como analista de engenharia de dados. Foco em pipelines de dados e data lake.",
+      "habilidades": [
+        "Kubernetes",
+        "GitHub Actions",
+        "Ansible",
+        "CI/CD",
+        "Observabilidade",
+        "Terraform",
+        "SQL",
+        "Databricks",
+        "AWS"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Dados Pleno",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2023-05",
+          "fim": "2026-07",
+          "atividades": [
+            "Reduziu o tempo de processamento diário de empréstimo em 35%.",
+            "Orquestrou 49 rotinas de ETL no Airflow."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Cloud (líder de time)",
+          "empresa": "Conta Fácil",
+          "setor": "financeiro",
+          "inicio": "2019-12",
+          "fim": "2023-03",
+          "atividades": [
+            "Automatizou o deploy de 60 serviços com pipelines de CI/CD.",
+            "Migrou a infraestrutura de pagamentos para Kubernetes.",
+            "Reduziu o custo de nuvem em 37%."
+          ]
+        },
+        {
+          "cargo": "Engenheiro DevOps Pleno",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2017-03",
+          "fim": "2019-09",
+          "atividades": [
+            "Atuou no plantão de incidentes e baixou o tempo de recuperação em 28%.",
+            "Migrou a infraestrutura de planos de celular para Kubernetes."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Confiabilidade (SRE) Pleno",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2015-01",
+          "fim": "2017-01",
+          "atividades": [
+            "Montou o monitoramento e os alertas dos sistemas de pagamentos.",
+            "Migrou a infraestrutura de empréstimo para Kubernetes.",
+            "Automatizou o deploy de 22 serviços com pipelines de CI/CD."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "Mackenzie",
+          "nivel": "superior_completo",
+          "conclusao": 2015
+        },
+        {
+          "curso": "Especialização em Liderança",
+          "instituicao": "Anhanguera",
+          "nivel": "pos_graduacao",
+          "conclusao": 2021
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "remoto",
+          "hibrido"
+        ],
+        "regime": "pj",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 560000
+      }
+    },
+    {
+      "id": "c19",
+      "nome": "Beatriz Martins Moreira",
+      "email": "beatriz.moreira.c19@example.com",
+      "telefone": "(11) 90000-0019",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "titulo": "Desenvolvedor Fullstack",
+      "area": "tecnologia",
+      "senioridade": "especialista",
+      "anos_experiencia": 12,
+      "resumo": "Desenvolvedor Fullstack com 12 anos de experiência. Faz front, back e um pouco de infraestrutura.",
+      "habilidades": [
+        "TypeScript",
+        "JavaScript",
+        "Prisma",
+        "APIs REST",
+        "Docker",
+        "PostgreSQL",
+        "Next.js",
+        "Laravel",
+        "Node.js",
+        "React"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor Web Especialista",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2025-06",
+          "fim": null,
+          "atividades": [
+            "Montou o painel administrativo de seguro auto.",
+            "Construiu do zero o sistema de sinistros, da tela ao banco."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Fullstack Especialista",
+          "empresa": "Faculdade Nova Era",
+          "setor": "educacao",
+          "inicio": "2024-01",
+          "fim": "2025-06",
+          "atividades": [
+            "Montou o painel administrativo de plataforma de cursos.",
+            "Construiu do zero o sistema de matrícula, da tela ao banco.",
+            "Manteve o site e a API de matrícula.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Fullstack (líder de time)",
+          "empresa": "Escola Horizonte",
+          "setor": "educacao",
+          "inicio": "2021-02",
+          "fim": "2023-09",
+          "atividades": [
+            "Manteve o site e a API de provas online.",
+            "Montou o painel administrativo de provas online.",
+            "Construiu do zero o sistema de plataforma de cursos, da tela ao banco."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Web Sênior",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2018-07",
+          "fim": "2020-12",
+          "atividades": [
+            "Montou o painel administrativo de ERP em nuvem.",
+            "Construiu do zero o sistema de ERP em nuvem, da tela ao banco."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Fullstack Pleno",
+          "empresa": "Escola Horizonte",
+          "setor": "educacao",
+          "inicio": "2017-01",
+          "fim": "2018-03",
+          "atividades": [
+            "Entregou 37 funcionalidades novas de plataforma de cursos em um trimestre.",
+            "Manteve o site e a API de matrícula."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Fullstack Pleno",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2013-09",
+          "fim": "2016-12",
+          "atividades": [
+            "Entregou 46 funcionalidades novas de agendamento de consultas em um trimestre.",
+            "Montou o painel administrativo de prontuário."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Análise e Desenvolvimento de Sistemas",
+          "instituicao": "UFPR",
+          "nivel": "superior_completo",
+          "conclusao": 2013
+        },
+        {
+          "curso": "MBA em Marketing Digital",
+          "instituicao": "UFPR",
+          "nivel": "pos_graduacao",
+          "conclusao": 2026
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1350000
+      }
+    },
+    {
+      "id": "c20",
+      "nome": "Fábio Gomes Lima",
+      "email": "fabio.lima.c20@example.com",
+      "telefone": "(11) 90000-0020",
+      "cidade": "Salvador",
+      "uf": "BA",
+      "titulo": "Desenvolvedor Backend",
+      "area": "tecnologia",
+      "senioridade": "pleno",
+      "anos_experiencia": 9,
+      "resumo": "9 anos de experiência: 5 anos como analista de infraestrutura, 4 anos como desenvolvedor backend. Hoje atua como desenvolvedor backend. Foco em performance e arquitetura de sistemas.",
+      "habilidades": [
+        "Ansible",
+        "Terraform",
+        "Grafana",
+        "Shell script",
+        "Docker",
+        "Microsserviços",
+        "NestJS",
+        "TypeScript"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor Node.js Pleno",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2025-09",
+          "fim": "2026-10",
+          "atividades": [
+            "Construiu as APIs de internet residencial usadas pelo app e pelo site.",
+            "Cuidou da modelagem do banco de planos de celular e das consultas mais pesadas.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Java Pleno",
+          "empresa": "LojaMix",
+          "setor": "varejo",
+          "inicio": "2022-11",
+          "fim": "2025-06",
+          "atividades": [
+            "Construiu as APIs de estoque usadas pelo app e pelo site.",
+            "Cuidou da modelagem do banco de estoque e das consultas mais pesadas.",
+            "Escreveu testes automatizados e subiu a cobertura para 19%."
+          ]
+        },
+        {
+          "cargo": "Analista de Infraestrutura (líder de time)",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2020-02",
+          "fim": "2022-07",
+          "atividades": [
+            "Montou o monitoramento e os alertas dos sistemas de agendamento de consultas.",
+            "Automatizou o deploy de 57 serviços com pipelines de CI/CD.",
+            "Migrou a infraestrutura de agendamento de consultas para Kubernetes."
+          ]
+        },
+        {
+          "cargo": "Analista de Infraestrutura Pleno",
+          "empresa": "LojaMix",
+          "setor": "varejo",
+          "inicio": "2017-07",
+          "fim": "2020-02",
+          "atividades": [
+            "Automatizou o deploy de 33 serviços com pipelines de CI/CD.",
+            "Migrou a infraestrutura de e-commerce para Kubernetes."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "UFPE",
+          "nivel": "superior_completo",
+          "conclusao": 2017
+        }
+      ],
+      "certificacoes": [
+        "Oracle Certified Java Programmer"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "presencial"
+        ],
+        "regime": "pj",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 880000
+      }
+    },
+    {
+      "id": "c21",
+      "nome": "Gabriela Almeida Lima",
+      "email": "gabriela.lima.c21@example.com",
+      "telefone": "(11) 90000-0021",
+      "cidade": "Florianópolis",
+      "uf": "SC",
+      "titulo": "Engenheiro DevOps",
+      "area": "tecnologia",
+      "senioridade": "pleno",
+      "anos_experiencia": 5,
+      "resumo": "5 anos de experiência: 3 anos como engenheiro devops, 2 anos como consultor comercial. Hoje atua como engenheiro devops. Foco em infraestrutura, nuvem e automação de deploy.",
+      "habilidades": [
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "HubSpot",
+        "CRM",
+        "Negociação",
+        "Salesforce"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Confiabilidade (SRE) Pleno",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2023-11",
+          "fim": null,
+          "atividades": [
+            "Reduziu o custo de nuvem em 26%.",
+            "Atuou no plantão de incidentes e baixou o tempo de recuperação em 45%."
+          ]
+        },
+        {
+          "cargo": "SDR Pleno",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2021-08",
+          "fim": "2023-10",
+          "atividades": [
+            "Bateu 10% acima da meta anual de vendas de linha de produção.",
+            "Abriu a carteira de clientes de linha de produção numa região nova."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Gestão Comercial",
+          "instituicao": "UFMG",
+          "nivel": "superior_completo",
+          "conclusao": 2020
+        },
+        {
+          "curso": "Especialização em Finanças",
+          "instituicao": "Mackenzie",
+          "nivel": "pos_graduacao",
+          "conclusao": 2025
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "presencial",
+          "remoto"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 830000
+      }
+    },
+    {
+      "id": "c22",
+      "nome": "Igor Rodrigues Rodrigues",
+      "email": "igor.rodrigues.c22@example.com",
+      "telefone": "(11) 90000-0022",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "titulo": "Analista de RH",
+      "area": "pessoas",
+      "senioridade": "pleno",
+      "anos_experiencia": 4,
+      "resumo": "Analista de RH com 4 anos de experiência. Foco em recrutamento e seleção.",
+      "habilidades": [
+        "Clima organizacional",
+        "Recrutamento e seleção",
+        "Integração de funcionários",
+        "Excel",
+        "LinkedIn Recruiter",
+        "Folha de pagamento",
+        "Entrevista por competências"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Recrutador Pleno",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2024-10",
+          "fim": null,
+          "atividades": [
+            "Conduzia a pesquisa de clima da empresa.",
+            "Contratou 50 pessoas em um ano."
+          ]
+        },
+        {
+          "cargo": "Analista de RH Júnior",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2023-03",
+          "fim": "2024-09",
+          "atividades": [
+            "Conduzia a pesquisa de clima da empresa.",
+            "Reduziu o tempo de contratação em 11%.",
+            "Cuidava da integração dos funcionários novos."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Gestão de Recursos Humanos",
+          "instituicao": "FGV",
+          "nivel": "superior_completo",
+          "conclusao": 2023
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "hibrido",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 950000
+      }
+    },
+    {
+      "id": "c23",
+      "nome": "Yasmin Almeida Moreira",
+      "email": "yasmin.moreira.c23@example.com",
+      "telefone": "(11) 90000-0023",
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "titulo": "UI Designer",
+      "area": "design",
+      "senioridade": "especialista",
+      "anos_experiencia": 12,
+      "resumo": "UI Designer com 12 anos de experiência. Foco em pesquisa com usuário e prototipação.",
+      "habilidades": [
+        "Adobe XD",
+        "Testes de usabilidade",
+        "Jornada do usuário",
+        "Figma",
+        "Pesquisa com usuário",
+        "Prototipação",
+        "Design system"
+      ],
+      "experiencias": [
+        {
+          "cargo": "UX Designer Especialista",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2025-05",
+          "fim": null,
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Desenhou o app de convênios do zero, da pesquisa ao protótipo."
+          ]
+        },
+        {
+          "cargo": "UX Designer Especialista",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2024-05",
+          "fim": "2025-04",
+          "atividades": [
+            "Entrevistou 41 usuários para entender como usam cotação.",
+            "Redesenhou o fluxo de seguro auto e a conversão subiu 24%.",
+            "Rodou testes de usabilidade antes de cada lançamento."
+          ]
+        },
+        {
+          "cargo": "UI Designer Sênior",
+          "empresa": "Aprende+",
+          "setor": "educacao",
+          "inicio": "2022-01",
+          "fim": "2024-03",
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Desenhou o app de provas online do zero, da pesquisa ao protótipo."
+          ]
+        },
+        {
+          "cargo": "UX Designer Sênior",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2019-09",
+          "fim": "2021-09",
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Redesenhou o fluxo de compras de insumos e a conversão subiu 12%.",
+            "Manteve o design system com os componentes do app."
+          ]
+        },
+        {
+          "cargo": "Product Designer (líder de time)",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2016-12",
+          "fim": "2019-07",
+          "atividades": [
+            "Manteve o design system com os componentes do app.",
+            "Desenhou o app de app de delivery do zero, da pesquisa ao protótipo.",
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Apresentava os resultados para a diretoria."
+          ]
+        },
+        {
+          "cargo": "UX Designer Pleno",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2014-04",
+          "fim": "2016-12",
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Entrevistou 46 usuários para entender como usam frota.",
+            "Redesenhou o fluxo de rastreamento de cargas e a conversão subiu 34%."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Arquitetura e Urbanismo",
+          "instituicao": "Unip",
+          "nivel": "superior_completo",
+          "conclusao": 2014
+        }
+      ],
+      "certificacoes": [
+        "Google UX Design"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "hibrido",
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 2070000
+      }
+    },
+    {
+      "id": "c24",
+      "nome": "Henrique Souza Teixeira",
+      "email": "henrique.teixeira.c24@example.com",
+      "telefone": "(11) 90000-0024",
+      "cidade": "Recife",
+      "uf": "PE",
+      "titulo": "Desenvolvedor Backend",
+      "area": "tecnologia",
+      "senioridade": "pleno",
+      "anos_experiencia": 4,
+      "resumo": "4 anos de experiência: 4 anos como desenvolvedor backend, menos de 1 ano como engenheiro de dados. Hoje atua como desenvolvedor backend. Foco em performance e arquitetura de sistemas.",
+      "habilidades": [
+        "TypeScript",
+        "AWS",
+        "NestJS",
+        "Testes automatizados",
+        "Java",
+        "Node.js",
+        "Kafka",
+        "Docker",
+        "PostgreSQL",
+        "SQL"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor Java Pleno",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2026-03",
+          "fim": null,
+          "atividades": [
+            "Integrou 22 parceiros externos por API.",
+            "Escreveu testes automatizados e subiu a cobertura para 7%.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Dados Júnior",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2025-06",
+          "fim": "2026-03",
+          "atividades": [
+            "Colocou os eventos de frota em tempo real com Kafka.",
+            "Reduziu o tempo de processamento diário de entregas em 37%."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Java Pleno",
+          "empresa": "Crédito Já",
+          "setor": "financeiro",
+          "inicio": "2022-06",
+          "fim": "2025-05",
+          "atividades": [
+            "Construiu as APIs de cartão de crédito usadas pelo app e pelo site.",
+            "Escreveu testes automatizados e subiu a cobertura para 6%.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Computação",
+          "instituicao": "UFPE",
+          "nivel": "superior_completo",
+          "conclusao": 2022
+        },
+        {
+          "curso": "MBA em Finanças",
+          "instituicao": "UFRGS",
+          "nivel": "pos_graduacao",
+          "conclusao": 2024
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 940000
+      }
+    },
+    {
+      "id": "c25",
+      "nome": "Helena Costa Pereira",
+      "email": "helena.pereira.c25@example.com",
+      "telefone": "(11) 90000-0025",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "titulo": "Desenvolvedor React",
+      "area": "tecnologia",
+      "senioridade": "pleno",
+      "anos_experiencia": 13,
+      "resumo": "13 anos de experiência: 10 anos como ux designer, 4 anos como desenvolvedor react. Hoje atua como desenvolvedor react. Foco em componentes e performance no navegador.",
+      "habilidades": [
+        "Pesquisa com usuário",
+        "Jornada do usuário",
+        "Testes de usabilidade",
+        "Adobe XD",
+        "Design system",
+        "Figma",
+        "JavaScript",
+        "Testes de interface",
+        "TypeScript"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Software Frontend Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2025-12",
+          "fim": null,
+          "atividades": [
+            "Melhorou o carregamento das páginas de linha de produção em 27%.",
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Corrigiu os problemas de acessibilidade do site de manutenção de fábrica."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Frontend Pleno",
+          "empresa": "Aprende+",
+          "setor": "educacao",
+          "inicio": "2023-03",
+          "fim": "2025-11",
+          "atividades": [
+            "Corrigiu os problemas de acessibilidade do site de matrícula.",
+            "Desenvolveu as telas de plataforma de cursos em React."
+          ]
+        },
+        {
+          "cargo": "UX Designer Sênior",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2021-03",
+          "fim": "2022-11",
+          "atividades": [
+            "Desenhou o app de planos de celular do zero, da pesquisa ao protótipo.",
+            "Redesenhou o fluxo de internet residencial e a conversão subiu 10%.",
+            "Manteve o design system com os componentes do app."
+          ]
+        },
+        {
+          "cargo": "UX Designer Sênior",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2018-11",
+          "fim": "2021-03",
+          "atividades": [
+            "Manteve o design system com os componentes do app.",
+            "Entrevistou 9 usuários para entender como usam seguro auto.",
+            "Desenhou o app de seguro auto do zero, da pesquisa ao protótipo."
+          ]
+        },
+        {
+          "cargo": "UI Designer Sênior",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2016-07",
+          "fim": "2018-11",
+          "atividades": [
+            "Redesenhou o fluxo de cotação e a conversão subiu 31%.",
+            "Manteve o design system com os componentes do app.",
+            "Entrevistou 14 usuários para entender como usam sinistros."
+          ]
+        },
+        {
+          "cargo": "UI Designer Pleno",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2013-06",
+          "fim": "2016-04",
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Entrevistou 47 usuários para entender como usam planos de celular."
+          ]
+        },
+        {
+          "cargo": "UI Designer Júnior",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2012-09",
+          "fim": "2013-03",
+          "atividades": [
+            "Rodou testes de usabilidade antes de cada lançamento.",
+            "Entrevistou 55 usuários para entender como usam compras de insumos."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Design Digital",
+          "instituicao": "Unicamp",
+          "nivel": "superior_completo",
+          "conclusao": 2011
+        }
+      ],
+      "certificacoes": [
+        "Google UX Design"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "avancado"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "remoto",
+          "presencial"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 600000
+      }
+    },
+    {
+      "id": "c26",
+      "nome": "André Oliveira Cardoso",
+      "email": "andre.cardoso.c26@example.com",
+      "telefone": "(11) 90000-0026",
+      "cidade": "Recife",
+      "uf": "PE",
+      "titulo": "Desenvolvedor React",
+      "area": "tecnologia",
+      "senioridade": "junior",
+      "anos_experiencia": 2,
+      "resumo": "Desenvolvedor React com 2 anos de experiência. Foco em interfaces rápidas e acessíveis.",
+      "habilidades": [
+        "CSS",
+        "JavaScript",
+        "Next.js",
+        "Vue.js",
+        "Figma",
+        "React",
+        "Storybook",
+        "TypeScript",
+        "Testes de interface"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor React Júnior",
+          "empresa": "Faculdade Nova Era",
+          "setor": "educacao",
+          "inicio": "2025-11",
+          "fim": null,
+          "atividades": [
+            "Corrigiu os problemas de acessibilidade do site de plataforma de cursos.",
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Criou uma biblioteca de componentes usada por 25 times.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor React Júnior",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2024-08",
+          "fim": "2025-07",
+          "atividades": [
+            "Desenvolveu as telas de cotação em React.",
+            "Criou uma biblioteca de componentes usada por 53 times.",
+            "Melhorou o carregamento das páginas de seguro auto em 10%."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Design Digital",
+          "instituicao": "UFMG",
+          "nivel": "superior_completo",
+          "conclusao": 2023
+        }
+      ],
+      "certificacoes": [
+        "Meta Front-End Developer"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "basico"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 500000
+      }
+    },
+    {
+      "id": "c27",
+      "nome": "Henrique Rocha Teixeira",
+      "email": "henrique.teixeira.c27@example.com",
+      "telefone": "(11) 90000-0027",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "titulo": "Engenheiro de Dados",
+      "area": "dados",
+      "senioridade": "senior",
+      "anos_experiencia": 8,
+      "resumo": "Engenheiro de Dados com 8 anos de experiência. Foco em deixar o dado limpo e disponível para análise.",
+      "habilidades": [
+        "Databricks",
+        "Kafka",
+        "Spark",
+        "Data lake",
+        "SQL",
+        "ETL",
+        "AWS",
+        "Python",
+        "BigQuery"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Engenharia de Dados Sênior",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2026-05",
+          "fim": null,
+          "atividades": [
+            "Montou os pipelines que levam os dados de compras de insumos para o data lake.",
+            "Colocou os eventos de manutenção de fábrica em tempo real com Kafka."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Dados Sênior",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2024-10",
+          "fim": "2026-05",
+          "atividades": [
+            "Orquestrou 3 rotinas de ETL no Airflow.",
+            "Colocou os eventos de entregas em tempo real com Kafka.",
+            "Reduziu o tempo de processamento diário de frota em 7%."
+          ]
+        },
+        {
+          "cargo": "Analista de Engenharia de Dados Sênior",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2021-04",
+          "fim": "2024-07",
+          "atividades": [
+            "Orquestrou 58 rotinas de ETL no Airflow.",
+            "Reduziu o tempo de processamento diário de frota em 14%.",
+            "Montou os pipelines que levam os dados de frota para o data lake."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Dados Pleno",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2018-11",
+          "fim": "2021-02",
+          "atividades": [
+            "Colocou os eventos de agendamento de consultas em tempo real com Kafka.",
+            "Reduziu o tempo de processamento diário de prontuário em 16%."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "Unip",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 980000
+      }
+    },
+    {
+      "id": "c28",
+      "nome": "Paula Nascimento Barbosa",
+      "email": "paula.barbosa.c28@example.com",
+      "telefone": "(11) 90000-0028",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "titulo": "Desenvolvedor Web",
+      "area": "tecnologia",
+      "senioridade": "especialista",
+      "anos_experiencia": 14,
+      "resumo": "Desenvolvedor Web com 14 anos de experiência. Faz front, back e um pouco de infraestrutura.",
+      "habilidades": [
+        "React",
+        "PostgreSQL",
+        "APIs REST",
+        "Laravel",
+        "TypeScript",
+        "Node.js",
+        "Next.js",
+        "PHP",
+        "Docker"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor Web Especialista",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2024-02",
+          "fim": null,
+          "atividades": [
+            "Manteve o site e a API de estoque.",
+            "Montou o painel administrativo de lojas físicas.",
+            "Entregou 11 funcionalidades novas de estoque em um trimestre."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Fullstack Especialista",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2023-05",
+          "fim": "2024-02",
+          "atividades": [
+            "Entregou 21 funcionalidades novas de frota em um trimestre.",
+            "Montou o painel administrativo de frota.",
+            "Construiu do zero o sistema de rastreamento de cargas, da tela ao banco."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Fullstack (líder de time)",
+          "empresa": "Moda Rio",
+          "setor": "varejo",
+          "inicio": "2022-04",
+          "fim": "2023-05",
+          "atividades": [
+            "Montou o painel administrativo de e-commerce.",
+            "Manteve o site e a API de estoque.",
+            "Construiu do zero o sistema de estoque, da tela ao banco."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Fullstack (líder de time)",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2020-08",
+          "fim": "2022-03",
+          "atividades": [
+            "Manteve o site e a API de sinistros.",
+            "Entregou 33 funcionalidades novas de seguro auto em um trimestre.",
+            "Construiu do zero o sistema de seguro auto, da tela ao banco."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Web Sênior",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2017-02",
+          "fim": "2020-06",
+          "atividades": [
+            "Entregou 60 funcionalidades novas de compras de insumos em um trimestre.",
+            "Construiu do zero o sistema de compras de insumos, da tela ao banco.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Fullstack Pleno",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2015-07",
+          "fim": "2017-01",
+          "atividades": [
+            "Entregou 40 funcionalidades novas de sinistros em um trimestre.",
+            "Construiu do zero o sistema de cotação, da tela ao banco.",
+            "Montou o painel administrativo de cotação."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Fullstack Pleno",
+          "empresa": "Atacarejo Central",
+          "setor": "varejo",
+          "inicio": "2012-07",
+          "fim": "2015-04",
+          "atividades": [
+            "Construiu do zero o sistema de lojas físicas, da tela ao banco.",
+            "Montou o painel administrativo de e-commerce."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Análise e Desenvolvimento de Sistemas",
+          "instituicao": "Anhanguera",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido"
+        ],
+        "regime": "clt",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 1260000
+      }
+    },
+    {
+      "id": "c29",
+      "nome": "Natália Silva Oliveira",
+      "email": "natalia.oliveira.c29@example.com",
+      "telefone": "(11) 90000-0029",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "titulo": "Analista de Growth",
+      "area": "marketing",
+      "senioridade": "pleno",
+      "anos_experiencia": 12,
+      "resumo": "12 anos de experiência: 8 anos como consultor comercial, 3 anos como analista de growth. Hoje atua como analista de growth. Foco em aquisição de clientes e mídia paga.",
+      "habilidades": [
+        "Cold call",
+        "Excel",
+        "Salesforce",
+        "Negociação",
+        "Vendas consultivas",
+        "Funil de aquisição",
+        "Google Ads"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Marketing Digital Pleno",
+          "empresa": "GestãoFácil Software",
+          "setor": "software",
+          "inicio": "2023-02",
+          "fim": "2026-06",
+          "atividades": [
+            "Baixou o custo por cliente novo em 34%.",
+            "Cuidou das redes sociais de app de delivery.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Consultor Comercial Sênior",
+          "empresa": "Escola Horizonte",
+          "setor": "educacao",
+          "inicio": "2020-05",
+          "fim": "2022-11",
+          "atividades": [
+            "Prospectava 21 empresas por semana.",
+            "Agendava reuniões para o time de vendas.",
+            "Abriu a carteira de clientes de plataforma de cursos numa região nova."
+          ]
+        },
+        {
+          "cargo": "SDR (líder de time)",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2019-03",
+          "fim": "2020-04",
+          "atividades": [
+            "Prospectava 43 empresas por semana.",
+            "Fechou contratos de manutenção de fábrica com empresas grandes.",
+            "Agendava reuniões para o time de vendas."
+          ]
+        },
+        {
+          "cargo": "Executivo de Contas Pleno",
+          "empresa": "Faculdade Nova Era",
+          "setor": "educacao",
+          "inicio": "2016-11",
+          "fim": "2018-11",
+          "atividades": [
+            "Abriu a carteira de clientes de plataforma de cursos numa região nova.",
+            "Bateu 37% acima da meta anual de vendas de provas online.",
+            "Prospectava 19 empresas por semana.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Consultor Comercial Pleno",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2014-08",
+          "fim": "2016-10",
+          "atividades": [
+            "Prospectava 2 empresas por semana.",
+            "Agendava reuniões para o time de vendas.",
+            "Abriu a carteira de clientes de entregas numa região nova."
+          ]
+        },
+        {
+          "cargo": "Consultor Comercial Júnior",
+          "empresa": "Escola Horizonte",
+          "setor": "educacao",
+          "inicio": "2013-11",
+          "fim": "2014-06",
+          "atividades": [
+            "Abriu a carteira de clientes de provas online numa região nova.",
+            "Bateu 39% acima da meta anual de vendas de plataforma de cursos.",
+            "Fechou contratos de provas online com empresas grandes."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Comunicação Social",
+          "instituicao": "USP",
+          "nivel": "superior_completo",
+          "conclusao": 2013
+        },
+        {
+          "curso": "MBA em Liderança",
+          "instituicao": "Anhanguera",
+          "nivel": "pos_graduacao",
+          "conclusao": 2022
+        }
+      ],
+      "certificacoes": [
+        "Salesforce Administrator",
+        "Meta Blueprint"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "presencial"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1030000
+      }
+    },
+    {
+      "id": "c30",
+      "nome": "Sabrina Ribeiro Costa",
+      "email": "sabrina.costa.c30@example.com",
+      "telefone": "(11) 90000-0030",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "titulo": "Desenvolvedor Java",
+      "area": "tecnologia",
+      "senioridade": "senior",
+      "anos_experiencia": 12,
+      "resumo": "12 anos de experiência: 6 anos como desenvolvedor java, 3 anos como desenvolvedor fullstack, 3 anos como cientista de dados. Hoje atua como desenvolvedor java. Foco em APIs, integrações e banco de dados.",
+      "habilidades": [
+        "NestJS",
+        "PostgreSQL",
+        "Go",
+        "Kafka",
+        "Node.js",
+        "TypeScript",
+        "Prisma",
+        "pandas",
+        "SQL"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Desenvolvedor Node.js Sênior",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2025-01",
+          "fim": "2026-05",
+          "atividades": [
+            "Reduziu o tempo de resposta das rotas de compras de insumos em 9%.",
+            "Escreveu testes automatizados e subiu a cobertura para 10%."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Backend Pleno",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2024-05",
+          "fim": "2024-12",
+          "atividades": [
+            "Integrou 6 parceiros externos por API.",
+            "Cuidou da modelagem do banco de linha de produção e das consultas mais pesadas.",
+            "Construiu as APIs de manutenção de fábrica usadas pelo app e pelo site."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Java Pleno",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2022-09",
+          "fim": "2024-05",
+          "atividades": [
+            "Migrou o sistema monolítico de internet residencial para microsserviços.",
+            "Escreveu testes automatizados e subiu a cobertura para 37%."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Backend Pleno",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2020-04",
+          "fim": "2022-07",
+          "atividades": [
+            "Cuidou da modelagem do banco de e-commerce e das consultas mais pesadas.",
+            "Construiu as APIs de e-commerce usadas pelo app e pelo site."
+          ]
+        },
+        {
+          "cargo": "Analista de Machine Learning Pleno",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2016-09",
+          "fim": "2019-12",
+          "atividades": [
+            "Colocou em produção um modelo de recomendação de e-commerce.",
+            "Rodou 7 testes A/B e analisou os resultados."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Web Pleno",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2013-05",
+          "fim": "2016-09",
+          "atividades": [
+            "Entregou 20 funcionalidades novas de compras de insumos em um trimestre.",
+            "Construiu do zero o sistema de compras de insumos, da tela ao banco.",
+            "Montou o painel administrativo de manutenção de fábrica."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Análise e Desenvolvimento de Sistemas",
+          "instituicao": "Mackenzie",
+          "nivel": "superior_completo",
+          "conclusao": 2012
+        }
+      ],
+      "certificacoes": [
+        "TensorFlow Developer",
+        "Oracle Certified Java Programmer"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "clt",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1880000
+      }
+    },
+    {
+      "id": "c31",
+      "nome": "Daniel Martins Araújo",
+      "email": "daniel.araujo.c31@example.com",
+      "telefone": "(11) 90000-0031",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "titulo": "Enfermeiro",
+      "area": "saude",
+      "senioridade": "senior",
+      "anos_experiencia": 10,
+      "resumo": "10 anos de experiência: 8 anos como enfermeiro, 2 anos como product owner. Hoje atua como enfermeiro. Foco em cuidado ao paciente e gestão de equipe.",
+      "habilidades": [
+        "Gestão de equipe de enfermagem",
+        "Administração de medicamentos",
+        "Segurança do paciente",
+        "Pronto-socorro",
+        "UTI",
+        "Priorização"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Enfermeiro Sênior",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2023-10",
+          "fim": null,
+          "atividades": [
+            "Controlava os indicadores de infecção hospitalar.",
+            "Plantões de 12 horas no pronto-socorro."
+          ]
+        },
+        {
+          "cargo": "Enfermeiro Pleno",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2021-03",
+          "fim": "2023-08",
+          "atividades": [
+            "Atendimento a pacientes na UTI.",
+            "Controlava os indicadores de infecção hospitalar.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Técnico de Enfermagem Pleno",
+          "empresa": "Hospital Bem Viver",
+          "setor": "saude",
+          "inicio": "2020-04",
+          "fim": "2021-02",
+          "atividades": [
+            "Controlava os indicadores de infecção hospitalar.",
+            "Plantões de 12 horas no pronto-socorro.",
+            "Supervisionava 29 técnicos de enfermagem por plantão.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Técnico de Enfermagem Júnior",
+          "empresa": "Rede Saúde Mais",
+          "setor": "saude",
+          "inicio": "2018-10",
+          "fim": "2020-02",
+          "atividades": [
+            "Plantões de 12 horas no pronto-socorro.",
+            "Atendimento a pacientes na UTI.",
+            "Implantou o protocolo de segurança do paciente na ala.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Product Owner Pleno",
+          "empresa": "NuvemERP",
+          "setor": "software",
+          "inicio": "2016-07",
+          "fim": "2018-07",
+          "atividades": [
+            "Definiu o roadmap de ERP em nuvem com um time de 44 pessoas.",
+            "Conversava com clientes toda semana para priorizar o que entrava."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Enfermagem",
+          "instituicao": "Unip",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [
+        "COREN ativo"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "imediata",
+        "pretensao_salarial_centavos": 1150000
+      }
+    },
+    {
+      "id": "c32",
+      "nome": "Natália Martins Teixeira",
+      "email": "natalia.teixeira.c32@example.com",
+      "telefone": "(11) 90000-0032",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "titulo": "Engenheiro de Software Backend",
+      "area": "tecnologia",
+      "senioridade": "pleno",
+      "anos_experiencia": 12,
+      "resumo": "12 anos de experiência: 8 anos como engenheiro de software frontend, 4 anos como engenheiro de software backend. Hoje atua como engenheiro de software backend. Foco em performance e arquitetura de sistemas.",
+      "habilidades": [
+        "TypeScript",
+        "Storybook",
+        "Vue.js",
+        "Testes de interface",
+        "Tailwind",
+        "React",
+        "Figma",
+        "JavaScript",
+        "Go",
+        "Docker"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Software Backend Pleno",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2025-01",
+          "fim": null,
+          "atividades": [
+            "Escreveu testes automatizados e subiu a cobertura para 12%.",
+            "Construiu as APIs de ERP em nuvem usadas pelo app e pelo site.",
+            "Integrou 36 parceiros externos por API."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Backend Júnior",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2022-12",
+          "fim": "2024-10",
+          "atividades": [
+            "Escreveu testes automatizados e subiu a cobertura para 21%.",
+            "Integrou 19 parceiros externos por API."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Frontend Sênior",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2019-11",
+          "fim": "2022-08",
+          "atividades": [
+            "Corrigiu os problemas de acessibilidade do site de rastreamento de cargas.",
+            "Melhorou o carregamento das páginas de entregas em 30%."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Frontend (líder de time)",
+          "empresa": "Celulose Litoral",
+          "setor": "industria",
+          "inicio": "2018-03",
+          "fim": "2019-08",
+          "atividades": [
+            "Corrigiu os problemas de acessibilidade do site de compras de insumos.",
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Criou uma biblioteca de componentes usada por 52 times."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Frontend Pleno",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2017-05",
+          "fim": "2018-03",
+          "atividades": [
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Criou uma biblioteca de componentes usada por 7 times."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Frontend Pleno",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2015-06",
+          "fim": "2017-01",
+          "atividades": [
+            "Desenvolveu as telas de faturamento em React.",
+            "Criou uma biblioteca de componentes usada por 41 times.",
+            "Melhorou o carregamento das páginas de faturamento em 19%.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Frontend Júnior",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2013-09",
+          "fim": "2015-06",
+          "atividades": [
+            "Corrigiu os problemas de acessibilidade do site de rastreamento de cargas.",
+            "Desenvolveu as telas de frota em React.",
+            "Criou uma biblioteca de componentes usada por 17 times."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "Uninove",
+          "nivel": "superior_completo",
+          "conclusao": 2013
+        }
+      ],
+      "certificacoes": [
+        "Oracle Certified Java Programmer"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido"
+        ],
+        "regime": "clt",
+        "disponibilidade": "60_dias",
+        "pretensao_salarial_centavos": 700000
+      }
+    },
+    {
+      "id": "c33",
+      "nome": "Juliana Barbosa Almeida",
+      "email": "juliana.almeida.c33@example.com",
+      "telefone": "(11) 90000-0033",
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "titulo": "Analista de Planejamento Financeiro",
+      "area": "financas",
+      "senioridade": "senior",
+      "anos_experiencia": 9,
+      "resumo": "9 anos de experiência: 6 anos como analista de planejamento financeiro, 3 anos como analista de dados. Hoje atua como analista de planejamento financeiro. Foco em análise de resultado e custos.",
+      "habilidades": [
+        "Conciliação bancária",
+        "Análise de custos",
+        "Fluxo de caixa",
+        "Modelagem financeira",
+        "Power BI",
+        "DRE",
+        "Excel",
+        "Indicadores de negócio",
+        "Tableau"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Planejamento Financeiro Sênior",
+          "empresa": "GestãoFácil Software",
+          "setor": "software",
+          "inicio": "2026-05",
+          "fim": null,
+          "atividades": [
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Analisou os custos de ERP em nuvem e cortou 40% de despesa.",
+            "Fechava o orçamento anual da área de app de delivery."
+          ]
+        },
+        {
+          "cargo": "Controller (líder de time)",
+          "empresa": "Atacarejo Central",
+          "setor": "varejo",
+          "inicio": "2023-10",
+          "fim": "2026-04",
+          "atividades": [
+            "Fechava o orçamento anual da área de e-commerce.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Analisou os custos de lojas físicas e cortou 6% de despesa.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Controller Pleno",
+          "empresa": "Aprende+",
+          "setor": "educacao",
+          "inicio": "2022-02",
+          "fim": "2023-07",
+          "atividades": [
+            "Analisou os custos de matrícula e cortou 25% de despesa.",
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Reduziu o prazo do fechamento mensal em 25 dias."
+          ]
+        },
+        {
+          "cargo": "Controller Júnior",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2020-10",
+          "fim": "2022-02",
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Montou o modelo de fluxo de caixa usado pela diretoria."
+          ]
+        },
+        {
+          "cargo": "Analista de BI Pleno",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2017-04",
+          "fim": "2020-06",
+          "atividades": [
+            "Definiu os indicadores de app de delivery com as áreas de negócio.",
+            "Automatizou o relatório mensal de ERP em nuvem, que levava 27 dias.",
+            "Trabalhava com metodologia ágil."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciências Contábeis",
+          "instituicao": "FGV",
+          "nivel": "superior_completo",
+          "conclusao": 2017
+        }
+      ],
+      "certificacoes": [
+        "PL-300 Power BI"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "avancado"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto"
+        ],
+        "regime": "indiferente",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 1300000
+      }
+    },
+    {
+      "id": "c34",
+      "nome": "João Carvalho Rodrigues",
+      "email": "joao.rodrigues.c34@example.com",
+      "telefone": "(11) 90000-0034",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "titulo": "Analista de Planejamento Financeiro",
+      "area": "financas",
+      "senioridade": "senior",
+      "anos_experiencia": 13,
+      "resumo": "13 anos de experiência: 9 anos como analista de planejamento financeiro, 3 anos como analista de bi. Hoje atua como analista de planejamento financeiro. Foco em análise de resultado e custos.",
+      "habilidades": [
+        "Análise de custos",
+        "SAP",
+        "Excel",
+        "Fluxo de caixa",
+        "DRE",
+        "Conciliação bancária",
+        "Power BI",
+        "DAX",
+        "Indicadores de negócio"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista Financeiro Sênior",
+          "empresa": "Seguros Horizonte",
+          "setor": "seguros",
+          "inicio": "2023-07",
+          "fim": null,
+          "atividades": [
+            "Fazia a conciliação bancária e o DRE do mês.",
+            "Analisou os custos de sinistros e cortou 35% de despesa."
+          ]
+        },
+        {
+          "cargo": "Controller (líder de time)",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2021-04",
+          "fim": "2023-05",
+          "atividades": [
+            "Analisou os custos de frota e cortou 24% de despesa.",
+            "Montou o modelo de fluxo de caixa usado pela diretoria.",
+            "Fazia a conciliação bancária e o DRE do mês."
+          ]
+        },
+        {
+          "cargo": "Controller Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2018-09",
+          "fim": "2021-02",
+          "atividades": [
+            "Analisou os custos de linha de produção e cortou 37% de despesa.",
+            "Fechava o orçamento anual da área de linha de produção."
+          ]
+        },
+        {
+          "cargo": "Controller Júnior",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2017-04",
+          "fim": "2018-09",
+          "atividades": [
+            "Analisou os custos de manutenção de fábrica e cortou 19% de despesa.",
+            "Fechava o orçamento anual da área de linha de produção.",
+            "Fazia a conciliação bancária e o DRE do mês."
+          ]
+        },
+        {
+          "cargo": "Analista de Dados Pleno",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2016-08",
+          "fim": "2017-03",
+          "atividades": [
+            "Cruzou os dados de entregas e achou uma perda de 36% na operação.",
+            "Montou os dashboards de entregas usados pela diretoria.",
+            "Atendia 44 áreas com pedidos de análise."
+          ]
+        },
+        {
+          "cargo": "Analista de Dados Pleno",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2013-10",
+          "fim": "2016-08",
+          "atividades": [
+            "Montou os dashboards de frota usados pela diretoria.",
+            "Atendia 27 áreas com pedidos de análise.",
+            "Definiu os indicadores de entregas com as áreas de negócio."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciências Contábeis",
+          "instituicao": "Unip",
+          "nivel": "superior_completo",
+          "conclusao": 2012
+        }
+      ],
+      "certificacoes": [
+        "Google Data Analytics",
+        "CPA-20"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "fluente"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido"
+        ],
+        "regime": "clt",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1320000
+      }
+    },
+    {
+      "id": "c35",
+      "nome": "Carla Araújo Cardoso",
+      "email": "carla.cardoso.c35@example.com",
+      "telefone": "(11) 90000-0035",
+      "cidade": "Florianópolis",
+      "uf": "SC",
+      "titulo": "Analista de Dados",
+      "area": "dados",
+      "senioridade": "especialista",
+      "anos_experiencia": 13,
+      "resumo": "Analista de Dados com 13 anos de experiência. Foco em dashboards e indicadores de negócio.",
+      "habilidades": [
+        "Power BI",
+        "Tableau",
+        "DAX",
+        "Python",
+        "Looker Studio",
+        "SQL",
+        "Indicadores de negócio",
+        "Dashboards",
+        "Excel"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de BI Especialista",
+          "empresa": "Rota Certa",
+          "setor": "logistica",
+          "inicio": "2025-07",
+          "fim": null,
+          "atividades": [
+            "Atendia 27 áreas com pedidos de análise.",
+            "Definiu os indicadores de rastreamento de cargas com as áreas de negócio.",
+            "Montou os dashboards de frota usados pela diretoria."
+          ]
+        },
+        {
+          "cargo": "Analista de BI Especialista",
+          "empresa": "PagaLeve",
+          "setor": "financeiro",
+          "inicio": "2024-04",
+          "fim": "2025-06",
+          "atividades": [
+            "Definiu os indicadores de cartão de crédito com as áreas de negócio.",
+            "Montou os dashboards de cartão de crédito usados pela diretoria.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        },
+        {
+          "cargo": "Analista de BI (líder de time)",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2021-03",
+          "fim": "2023-12",
+          "atividades": [
+            "Montou os dashboards de entregas usados pela diretoria.",
+            "Atendia 57 áreas com pedidos de análise.",
+            "Apresentava os resultados para a diretoria."
+          ]
+        },
+        {
+          "cargo": "Analista de Dados (líder de time)",
+          "empresa": "Aprende+",
+          "setor": "educacao",
+          "inicio": "2017-11",
+          "fim": "2021-01",
+          "atividades": [
+            "Montou os dashboards de plataforma de cursos usados pela diretoria.",
+            "Atendia 2 áreas com pedidos de análise."
+          ]
+        },
+        {
+          "cargo": "Analista de Dados Pleno",
+          "empresa": "Protege Seguros",
+          "setor": "seguros",
+          "inicio": "2014-11",
+          "fim": "2017-08",
+          "atividades": [
+            "Cruzou os dados de sinistros e achou uma perda de 5% na operação.",
+            "Atendia 17 áreas com pedidos de análise.",
+            "Automatizou o relatório mensal de seguro auto, que levava 6 dias."
+          ]
+        },
+        {
+          "cargo": "Analista de BI Pleno",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2012-05",
+          "fim": "2014-07",
+          "atividades": [
+            "Cruzou os dados de cartão de crédito e achou uma perda de 14% na operação.",
+            "Definiu os indicadores de pagamentos com as áreas de negócio."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Produção",
+          "instituicao": "Anhanguera",
+          "nivel": "superior_completo",
+          "conclusao": 2012
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "hibrido",
+          "remoto"
+        ],
+        "regime": "pj",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 1660000
+      }
+    },
+    {
+      "id": "c36",
+      "nome": "Yasmin Gomes Nascimento",
+      "email": "yasmin.nascimento.c36@example.com",
+      "telefone": "(11) 90000-0036",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "titulo": "Cientista de Dados",
+      "area": "dados",
+      "senioridade": "especialista",
+      "anos_experiencia": 13,
+      "resumo": "13 anos de experiência: 11 anos como cientista de dados, 2 anos como engenheiro devops. Hoje atua como cientista de dados. Foco em estatística aplicada a perguntas de negócio.",
+      "habilidades": [
+        "Modelos preditivos",
+        "pandas",
+        "Testes A/B",
+        "scikit-learn",
+        "R",
+        "Machine learning",
+        "XGBoost",
+        "Estatística",
+        "Python",
+        "Kubernetes",
+        "Observabilidade"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Cientista de Dados Especialista",
+          "empresa": "Conta Fácil",
+          "setor": "financeiro",
+          "inicio": "2024-08",
+          "fim": null,
+          "atividades": [
+            "Criou um modelo para prever o cancelamento de clientes de cartão de crédito.",
+            "Colocou em produção um modelo de recomendação de pagamentos.",
+            "Fez um modelo de previsão de demanda de cartão de crédito com erro 30% menor.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Analista de Machine Learning (líder de time)",
+          "empresa": "LojaMix",
+          "setor": "varejo",
+          "inicio": "2021-09",
+          "fim": "2024-05",
+          "atividades": [
+            "Fez um modelo de previsão de demanda de estoque com erro 41% menor.",
+            "Segmentou a base de clientes de estoque por comportamento.",
+            "Colocou em produção um modelo de recomendação de e-commerce."
+          ]
+        },
+        {
+          "cargo": "Analista de Infraestrutura Júnior",
+          "empresa": "Moda Rio",
+          "setor": "varejo",
+          "inicio": "2019-06",
+          "fim": "2021-05",
+          "atividades": [
+            "Automatizou o deploy de 27 serviços com pipelines de CI/CD.",
+            "Reduziu o custo de nuvem em 7%.",
+            "Migrou a infraestrutura de e-commerce para Kubernetes."
+          ]
+        },
+        {
+          "cargo": "Analista de Machine Learning (líder de time)",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2016-05",
+          "fim": "2019-04",
+          "atividades": [
+            "Rodou 6 testes A/B e analisou os resultados.",
+            "Criou um modelo para prever o cancelamento de clientes de cartão de crédito.",
+            "Segmentou a base de clientes de pagamentos por comportamento."
+          ]
+        },
+        {
+          "cargo": "Cientista de Dados Pleno",
+          "empresa": "PagaLeve",
+          "setor": "financeiro",
+          "inicio": "2014-07",
+          "fim": "2016-01",
+          "atividades": [
+            "Rodou 37 testes A/B e analisou os resultados.",
+            "Criou um modelo para prever o cancelamento de clientes de pagamentos.",
+            "Segmentou a base de clientes de pagamentos por comportamento."
+          ]
+        },
+        {
+          "cargo": "Cientista de Dados Júnior",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2013-07",
+          "fim": "2014-06",
+          "atividades": [
+            "Segmentou a base de clientes de manutenção de fábrica por comportamento.",
+            "Criou um modelo para prever o cancelamento de clientes de manutenção de fábrica.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Analista de Machine Learning Júnior",
+          "empresa": "Aprende+",
+          "setor": "educacao",
+          "inicio": "2012-04",
+          "fim": "2013-04",
+          "atividades": [
+            "Criou um modelo para prever o cancelamento de clientes de matrícula.",
+            "Rodou 19 testes A/B e analisou os resultados."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Economia",
+          "instituicao": "UFBA",
+          "nivel": "superior_completo",
+          "conclusao": 2011
+        }
+      ],
+      "certificacoes": [
+        "Azure Data Scientist Associate"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "basico"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "hibrido",
+          "presencial"
+        ],
+        "regime": "pj",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 2480000
+      }
+    },
+    {
+      "id": "c37",
+      "nome": "Fábio Barbosa Barbosa",
+      "email": "fabio.barbosa.c37@example.com",
+      "telefone": "(11) 90000-0037",
+      "cidade": "Porto Alegre",
+      "uf": "RS",
+      "titulo": "Mecânico de Manutenção",
+      "area": "industria",
+      "senioridade": "pleno",
+      "anos_experiencia": 5,
+      "resumo": "5 anos de experiência: 3 anos como desenvolvedor web, 3 anos como mecânico de manutenção. Hoje atua como mecânico de manutenção. Foco em manutenção elétrica industrial.",
+      "habilidades": [
+        "Docker",
+        "APIs REST",
+        "PHP",
+        "TypeScript",
+        "Prisma",
+        "PostgreSQL",
+        "Manutenção preventiva",
+        "CLP",
+        "NR-10"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Eletricista Industrial Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2024-10",
+          "fim": null,
+          "atividades": [
+            "Montagem de painéis elétricos.",
+            "Programação básica de CLP."
+          ]
+        },
+        {
+          "cargo": "Mecânico de Manutenção Júnior",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2024-01",
+          "fim": "2024-07",
+          "atividades": [
+            "Programação básica de CLP.",
+            "Montagem de painéis elétricos."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Fullstack Pleno",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2021-01",
+          "fim": "2023-10",
+          "atividades": [
+            "Entregou 49 funcionalidades novas de app de delivery em um trimestre.",
+            "Construiu do zero o sistema de ERP em nuvem, da tela ao banco.",
+            "Manteve o site e a API de sistema de gestão.",
+            "Treinou os colegas novos."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "Senai",
+          "nivel": "tecnico",
+          "conclusao": 2020
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "clt",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 890000
+      }
+    },
+    {
+      "id": "c38",
+      "nome": "Wagner Teixeira Araújo",
+      "email": "wagner.araujo.c38@example.com",
+      "telefone": "(11) 90000-0038",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "titulo": "Mecânico de Manutenção",
+      "area": "industria",
+      "senioridade": "gestao",
+      "anos_experiencia": 6,
+      "resumo": "Mecânico de Manutenção com 6 anos de experiência. Foco em máquinas, painéis e motores.",
+      "habilidades": [
+        "Leitura de diagramas",
+        "CLP",
+        "NR-35",
+        "Painéis elétricos",
+        "NR-10",
+        "Manutenção preventiva"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Eletricista Industrial (líder de time)",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2023-07",
+          "fim": "2026-06",
+          "atividades": [
+            "Programação básica de CLP.",
+            "Manutenção preventiva e corretiva das máquinas da linha.",
+            "Trabalho em turno e em altura."
+          ]
+        },
+        {
+          "cargo": "Mecânico de Manutenção Pleno",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2022-10",
+          "fim": "2023-05",
+          "atividades": [
+            "Programação básica de CLP.",
+            "Montagem de painéis elétricos."
+          ]
+        },
+        {
+          "cargo": "Eletricista Industrial Pleno",
+          "empresa": "Metalúrgica Paraná",
+          "setor": "industria",
+          "inicio": "2020-04",
+          "fim": "2022-09",
+          "atividades": [
+            "Reduziu as paradas de máquina em 31%.",
+            "Trabalho em turno e em altura."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Técnico em Eletrotécnica",
+          "instituicao": "Senai",
+          "nivel": "tecnico",
+          "conclusao": 2019
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        },
+        {
+          "idioma": "Espanhol",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial"
+        ],
+        "regime": "pj",
+        "disponibilidade": "15_dias",
+        "pretensao_salarial_centavos": 2180000
+      }
+    },
+    {
+      "id": "c39",
+      "nome": "Otávio Oliveira Moreira",
+      "email": "otavio.moreira.c39@example.com",
+      "telefone": "(11) 90000-0039",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "titulo": "Desenvolvedor React",
+      "area": "tecnologia",
+      "senioridade": "senior",
+      "anos_experiencia": 9,
+      "resumo": "Desenvolvedor React com 9 anos de experiência. Foco em componentes e performance no navegador.",
+      "habilidades": [
+        "React",
+        "Tailwind",
+        "TypeScript",
+        "Testes de interface",
+        "Storybook",
+        "JavaScript",
+        "Acessibilidade",
+        "CSS",
+        "Figma",
+        "Vue.js",
+        "Next.js"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Engenheiro de Software Frontend Sênior",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2025-05",
+          "fim": "2026-05",
+          "atividades": [
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Melhorou o carregamento das páginas de entregas em 16%."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor Frontend Sênior",
+          "empresa": "TransLog",
+          "setor": "logistica",
+          "inicio": "2023-10",
+          "fim": "2025-01",
+          "atividades": [
+            "Desenvolveu as telas de entregas em React.",
+            "Melhorou o carregamento das páginas de entregas em 32%.",
+            "Transformou os protótipos do time de design em telas funcionando."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Frontend Sênior",
+          "empresa": "Crédito Já",
+          "setor": "financeiro",
+          "inicio": "2020-07",
+          "fim": "2023-09",
+          "atividades": [
+            "Criou uma biblioteca de componentes usada por 11 times.",
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Corrigiu os problemas de acessibilidade do site de empréstimo.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Desenvolvedor React Pleno",
+          "empresa": "Entrega Rápida",
+          "setor": "software",
+          "inicio": "2018-05",
+          "fim": "2020-04",
+          "atividades": [
+            "Criou uma biblioteca de componentes usada por 28 times.",
+            "Corrigiu os problemas de acessibilidade do site de app de delivery.",
+            "Trabalhava com metodologia ágil."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Frontend Pleno",
+          "empresa": "ConectaNet",
+          "setor": "telecom",
+          "inicio": "2016-12",
+          "fim": "2018-03",
+          "atividades": [
+            "Transformou os protótipos do time de design em telas funcionando.",
+            "Corrigiu os problemas de acessibilidade do site de internet residencial.",
+            "Desenvolveu as telas de internet residencial em React.",
+            "Treinou os colegas novos."
+          ]
+        },
+        {
+          "cargo": "Engenheiro de Software Frontend Júnior",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2015-12",
+          "fim": "2016-09",
+          "atividades": [
+            "Corrigiu os problemas de acessibilidade do site de manutenção de fábrica.",
+            "Melhorou o carregamento das páginas de linha de produção em 22%.",
+            "Criou uma biblioteca de componentes usada por 40 times.",
+            "Participou da contratação de pessoas para o time."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "Estácio",
+          "nivel": "superior_incompleto",
+          "conclusao": null
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "remoto",
+          "hibrido",
+          "presencial"
+        ],
+        "regime": "pj",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1010000
+      }
+    },
+    {
+      "id": "c40",
+      "nome": "Bruno Souza Martins",
+      "email": "bruno.martins.c40@example.com",
+      "telefone": "(11) 90000-0040",
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "titulo": "Analista de Performance",
+      "area": "marketing",
+      "senioridade": "especialista",
+      "anos_experiencia": 12,
+      "resumo": "Analista de Performance com 12 anos de experiência. Foco em aquisição de clientes e mídia paga.",
+      "habilidades": [
+        "Google Analytics",
+        "SEO",
+        "Excel",
+        "Copywriting",
+        "Meta Ads",
+        "Google Ads",
+        "Funil de aquisição",
+        "E-mail marketing",
+        "Canva"
+      ],
+      "experiencias": [
+        {
+          "cargo": "Analista de Marketing Digital Especialista",
+          "empresa": "Aço Capixaba",
+          "setor": "industria",
+          "inicio": "2024-03",
+          "fim": null,
+          "atividades": [
+            "Analisava o funil de aquisição no Google Analytics.",
+            "Montou as campanhas de e-mail para a base de clientes."
+          ]
+        },
+        {
+          "cargo": "Analista de Performance Sênior",
+          "empresa": "TelcoSul",
+          "setor": "telecom",
+          "inicio": "2022-11",
+          "fim": "2023-11",
+          "atividades": [
+            "Analisava o funil de aquisição no Google Analytics.",
+            "Baixou o custo por cliente novo em 35%.",
+            "Gerenciava a mídia paga de internet residencial com verba de R$ 59 mil por mês.",
+            "Apresentava os resultados para a diretoria."
+          ]
+        },
+        {
+          "cargo": "Analista de Performance (líder de time)",
+          "empresa": "Escola Horizonte",
+          "setor": "educacao",
+          "inicio": "2021-04",
+          "fim": "2022-10",
+          "atividades": [
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Cuidou das redes sociais de plataforma de cursos."
+          ]
+        },
+        {
+          "cargo": "Analista de Growth Sênior",
+          "empresa": "Clínica Vida Plena",
+          "setor": "saude",
+          "inicio": "2018-11",
+          "fim": "2021-01",
+          "atividades": [
+            "Analisava o funil de aquisição no Google Analytics.",
+            "Gerenciava a mídia paga de prontuário com verba de R$ 57 mil por mês.",
+            "Baixou o custo por cliente novo em 11%."
+          ]
+        },
+        {
+          "cargo": "Analista de Performance Pleno",
+          "empresa": "Banco Aurora",
+          "setor": "financeiro",
+          "inicio": "2015-08",
+          "fim": "2018-10",
+          "atividades": [
+            "Analisava o funil de aquisição no Google Analytics.",
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Baixou o custo por cliente novo em 18%."
+          ]
+        },
+        {
+          "cargo": "Analista de Growth Júnior",
+          "empresa": "Mercado Bom",
+          "setor": "varejo",
+          "inicio": "2013-10",
+          "fim": "2015-06",
+          "atividades": [
+            "Gerenciava a mídia paga de lojas físicas com verba de R$ 3 mil por mês.",
+            "Cuidou das redes sociais de estoque.",
+            "Montou as campanhas de e-mail para a base de clientes.",
+            "Apresentava os resultados para a diretoria."
+          ]
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Comunicação Social",
+          "instituicao": "UFPR",
+          "nivel": "superior_completo",
+          "conclusao": 2013
+        },
+        {
+          "curso": "Mestrado em Comunicação Social",
+          "instituicao": "UFBA",
+          "nivel": "mestrado",
+          "conclusao": 2020
+        }
+      ],
+      "certificacoes": [
+        "Google Ads"
+      ],
+      "idiomas": [
+        {
+          "idioma": "Português",
+          "nivel": "nativo"
+        },
+        {
+          "idioma": "Inglês",
+          "nivel": "intermediario"
+        }
+      ],
+      "preferencias": {
+        "modelos": [
+          "presencial",
+          "hibrido"
+        ],
+        "regime": "pj",
+        "disponibilidade": "30_dias",
+        "pretensao_salarial_centavos": 1530000
+      }
+    }
+  ]
+}

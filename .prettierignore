@@ -1,0 +1,6 @@
+# Gerados ou de outra ferramenta: o Prettier não mexe.
+bun.lock
+lab/history/
+docs/exemplos/
+src/db/migrations/
+out/

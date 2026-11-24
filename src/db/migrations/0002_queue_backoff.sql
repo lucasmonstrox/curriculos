@@ -1,0 +1,1 @@
+ALTER TABLE "resumes" ADD COLUMN "run_after" timestamp with time zone DEFAULT now() NOT NULL;

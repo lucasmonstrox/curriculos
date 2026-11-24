@@ -1,0 +1,50 @@
+{
+  "name": "curriculos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lê currículos com um modelo de linguagem, padroniza em fichas e recomenda os currículos mais parecidos com cada um.",
+  "type": "module",
+  "engines": {
+    "bun": ">=1.4.4"
+  },
+  "scripts": {
+    "dev": "bun --watch src/dev.ts",
+    "api": "bun src/api/server.ts",
+    "worker": "bun src/worker/index.ts",
+    "db:up": "docker compose up -d --wait",
+    "db:down": "docker compose down",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "bun src/cli/migrate.ts",
+    "extract": "bun src/cli/extract.ts",
+    "recommend": "bun src/cli/recommend.ts",
+    "lab:generate": "bun lab/cli/generate.ts",
+    "lab:benchmark": "bun lab/cli/benchmark.ts",
+    "lab:examples": "bun lab/cli/examples.ts",
+    "lab:seed": "bun lab/cli/seed.ts",
+    "test": "bun test",
+    "test:unit": "bun test src lab",
+    "test:api": "bun test test/api",
+    "test:integration": "bun test test/integration",
+    "test:coverage": "bun test --coverage",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "check": "prettier --check . && tsc --noEmit && bun test --coverage"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^4.0.122",
+    "@elysiajs/openapi": "^1.4.17",
+    "ai": "^7.0.181",
+    "date-fns": "^4.4.0",
+    "drizzle-orm": "^0.45.4",
+    "elysia": "^1.4.32",
+    "postgres": "^4.1.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@types/bun": "^1.4.5",
+    "drizzle-kit": "^0.31.11",
+    "prettier": "^3.10.1",
+    "typescript": "^7.0.2"
+  }
+}

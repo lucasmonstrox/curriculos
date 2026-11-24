@@ -1,0 +1,363 @@
+{
+  "semente": 7,
+  "verdade": "Parecença verdadeira entre A e B = soma, para cada par de profissões, de (fração da carreira de A na primeira) × (fração da carreira de B na segunda) × (1 se é a mesma profissão, 0,5 se é vizinha, 0 se não). Vai de 0 (nada a ver) a 1 (mesma profissão a carreira toda).",
+  "vizinhas": [
+    [
+      "backend",
+      "fullstack"
+    ],
+    [
+      "frontend",
+      "fullstack"
+    ],
+    [
+      "backend",
+      "devops"
+    ],
+    [
+      "backend",
+      "eng_dados"
+    ],
+    [
+      "devops",
+      "eng_dados"
+    ],
+    [
+      "eng_dados",
+      "cientista_dados"
+    ],
+    [
+      "eng_dados",
+      "analista_dados"
+    ],
+    [
+      "cientista_dados",
+      "analista_dados"
+    ],
+    [
+      "analista_dados",
+      "analista_financeiro"
+    ],
+    [
+      "analista_dados",
+      "marketing"
+    ],
+    [
+      "frontend",
+      "designer"
+    ],
+    [
+      "designer",
+      "pm"
+    ],
+    [
+      "cs",
+      "vendas"
+    ],
+    [
+      "vendas",
+      "marketing"
+    ]
+  ],
+  "candidatos": {
+    "c01": {
+      "tipo": "duas_nada_a_ver",
+      "atual": "vendas",
+      "meses": {
+        "backend": 25,
+        "vendas": 31
+      }
+    },
+    "c02": {
+      "tipo": "duas_vizinhas",
+      "atual": "pm",
+      "meses": {
+        "designer": 34,
+        "pm": 27
+      }
+    },
+    "c03": {
+      "tipo": "uma",
+      "atual": "vendas",
+      "meses": {
+        "vendas": 182
+      }
+    },
+    "c04": {
+      "tipo": "uma",
+      "atual": "fullstack",
+      "meses": {
+        "fullstack": 149
+      }
+    },
+    "c05": {
+      "tipo": "uma",
+      "atual": "cs",
+      "meses": {
+        "cs": 91
+      }
+    },
+    "c06": {
+      "tipo": "duas_nada_a_ver",
+      "atual": "analista_dados",
+      "meses": {
+        "enfermagem": 36,
+        "analista_dados": 35
+      }
+    },
+    "c07": {
+      "tipo": "uma",
+      "atual": "cientista_dados",
+      "meses": {
+        "cientista_dados": 19
+      }
+    },
+    "c08": {
+      "tipo": "duas_vizinhas",
+      "atual": "analista_financeiro",
+      "meses": {
+        "analista_dados": 105,
+        "analista_financeiro": 79
+      }
+    },
+    "c09": {
+      "tipo": "duas_nada_a_ver",
+      "atual": "marketing",
+      "meses": {
+        "cientista_dados": 64,
+        "marketing": 17
+      }
+    },
+    "c10": {
+      "tipo": "uma",
+      "atual": "cs",
+      "meses": {
+        "cs": 87
+      }
+    },
+    "c11": {
+      "tipo": "uma",
+      "atual": "cientista_dados",
+      "meses": {
+        "cientista_dados": 74
+      }
+    },
+    "c12": {
+      "tipo": "uma",
+      "atual": "devops",
+      "meses": {
+        "devops": 156
+      }
+    },
+    "c13": {
+      "tipo": "uma",
+      "atual": "analista_financeiro",
+      "meses": {
+        "analista_financeiro": 84
+      }
+    },
+    "c14": {
+      "tipo": "uma",
+      "atual": "marketing",
+      "meses": {
+        "marketing": 140
+      }
+    },
+    "c15": {
+      "tipo": "uma",
+      "atual": "pm",
+      "meses": {
+        "pm": 53
+      }
+    },
+    "c16": {
+      "tipo": "uma",
+      "atual": "eng_dados",
+      "meses": {
+        "eng_dados": 57
+      }
+    },
+    "c17": {
+      "tipo": "uma",
+      "atual": "analista_financeiro",
+      "meses": {
+        "analista_financeiro": 128
+      }
+    },
+    "c18": {
+      "tipo": "duas_vizinhas",
+      "atual": "eng_dados",
+      "meses": {
+        "devops": 93,
+        "eng_dados": 38
+      }
+    },
+    "c19": {
+      "tipo": "uma",
+      "atual": "fullstack",
+      "meses": {
+        "fullstack": 147
+      }
+    },
+    "c20": {
+      "tipo": "duas_vizinhas",
+      "atual": "backend",
+      "meses": {
+        "devops": 60,
+        "backend": 44
+      }
+    },
+    "c21": {
+      "tipo": "duas_nada_a_ver",
+      "atual": "devops",
+      "meses": {
+        "vendas": 26,
+        "devops": 36
+      }
+    },
+    "c22": {
+      "tipo": "uma",
+      "atual": "rh",
+      "meses": {
+        "rh": 43
+      }
+    },
+    "c23": {
+      "tipo": "uma",
+      "atual": "designer",
+      "meses": {
+        "designer": 142
+      }
+    },
+    "c24": {
+      "tipo": "duas_vizinhas",
+      "atual": "backend",
+      "meses": {
+        "backend": 43,
+        "eng_dados": 9
+      }
+    },
+    "c25": {
+      "tipo": "duas_vizinhas",
+      "atual": "frontend",
+      "meses": {
+        "designer": 116,
+        "frontend": 43
+      }
+    },
+    "c26": {
+      "tipo": "uma",
+      "atual": "frontend",
+      "meses": {
+        "frontend": 23
+      }
+    },
+    "c27": {
+      "tipo": "uma",
+      "atual": "eng_dados",
+      "meses": {
+        "eng_dados": 91
+      }
+    },
+    "c28": {
+      "tipo": "uma",
+      "atual": "fullstack",
+      "meses": {
+        "fullstack": 165
+      }
+    },
+    "c29": {
+      "tipo": "duas_vizinhas",
+      "atual": "marketing",
+      "meses": {
+        "vendas": 100,
+        "marketing": 40
+      }
+    },
+    "c30": {
+      "tipo": "tres",
+      "atual": "backend",
+      "meses": {
+        "fullstack": 40,
+        "cientista_dados": 39,
+        "backend": 70
+      }
+    },
+    "c31": {
+      "tipo": "duas_vizinhas",
+      "atual": "enfermagem",
+      "meses": {
+        "pm": 24,
+        "enfermagem": 92
+      }
+    },
+    "c32": {
+      "tipo": "duas_nada_a_ver",
+      "atual": "backend",
+      "meses": {
+        "frontend": 100,
+        "backend": 44
+      }
+    },
+    "c33": {
+      "tipo": "duas_vizinhas",
+      "atual": "analista_financeiro",
+      "meses": {
+        "analista_dados": 38,
+        "analista_financeiro": 69
+      }
+    },
+    "c34": {
+      "tipo": "duas_vizinhas",
+      "atual": "analista_financeiro",
+      "meses": {
+        "analista_dados": 41,
+        "analista_financeiro": 111
+      }
+    },
+    "c35": {
+      "tipo": "uma",
+      "atual": "analista_dados",
+      "meses": {
+        "analista_dados": 160
+      }
+    },
+    "c36": {
+      "tipo": "duas_nada_a_ver",
+      "atual": "cientista_dados",
+      "meses": {
+        "cientista_dados": 135,
+        "devops": 23
+      }
+    },
+    "c37": {
+      "tipo": "duas_vizinhas",
+      "atual": "manutencao",
+      "meses": {
+        "fullstack": 33,
+        "manutencao": 31
+      }
+    },
+    "c38": {
+      "tipo": "uma",
+      "atual": "manutencao",
+      "meses": {
+        "manutencao": 71
+      }
+    },
+    "c39": {
+      "tipo": "uma",
+      "atual": "frontend",
+      "meses": {
+        "frontend": 112
+      }
+    },
+    "c40": {
+      "tipo": "uma",
+      "atual": "marketing",
+      "meses": {
+        "marketing": 146
+      }
+    }
+  }
+}

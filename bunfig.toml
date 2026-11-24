@@ -1,0 +1,16 @@
+[test]
+# Cobertura medida no código do produto (src/). Ficam fora:
+# - lab/ e test/: laboratório e os próprios testes;
+# - os pontos de entrada, que só leem o .env, abrem conexões e chamam o que está testado
+#   (linha de comando, servidor, worker e o modo de desenvolvimento).
+coverageSkipTestFiles = true
+coveragePathIgnorePatterns = [
+  "lab/**",
+  "test/**",
+  "src/cli/**",
+  "src/api/server.ts",
+  "src/worker/index.ts",
+  "src/dev.ts",
+  "drizzle.config.ts",
+]
+coverageThreshold = { lines = 1.0, functions = 1.0 }

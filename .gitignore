@@ -1,0 +1,12 @@
+node_modules/
+
+# Segredos: a chave da OpenAI mora só no .env local. O .env.example (modelo, sem chave) vai para o git.
+.env
+.env.*
+!.env.example
+
+# Gerados: saídas das linhas de comando.
+out/
+
+# Cache da primeira versão do experimento (215 MB, formato antigo): fica só na máquina.
+lab/history/embeddings-cache.json

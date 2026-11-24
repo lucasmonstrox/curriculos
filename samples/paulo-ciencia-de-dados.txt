@@ -1,0 +1,35 @@
+Paulo Henrique Sampaio
+Campinas, SP | paulo.sampaio@example.com | linkedin.com/in/exemplo-paulo
+
+RESUMO
+Cientista de dados com background em estatística. Modelos de churn e propensão em telecom e varejo.
+Antes de dados fui analista financeiro.
+
+EXPERIÊNCIA
+
+TelcoSul | Cientista de Dados Sênior | jan 2022 - atual
+• Modelo de previsão de churn pós-pago (XGBoost) que reduziu cancelamentos em 12%
+• Deploy com MLflow e SageMaker
+
+TelcoSul | Cientista de Dados Pleno | mar 2020 - dez 2021
+• Segmentação de clientes, testes A/B de ofertas
+
+Mercado Bom | Analista de BI | 2018 - fev 2020
+• dashboards de vendas e ruptura em Power BI, SQL Server
+
+Mercado Bom | Analista Financeiro | 2016 - 2017
+• orçamento anual, fluxo de caixa, DRE
+
+Banco Aurora | Estagiário de Controladoria | 2015 - 2015
+• conciliações e relatórios em Excel
+
+Unicamp | Bolsista de iniciação científica | 2014
+• modelos de regressão em R
+
+FORMAÇÃO
+Estatística - Unicamp (2015)
+Mestrado em Ciência da Computação - Unicamp (2019)
+
+SKILLS
+Python (pandas, scikit-learn, xgboost), SQL, R, Spark, AWS, MLflow, Power BI, Excel
+Inglês fluente
